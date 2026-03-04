@@ -49,7 +49,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 7. **A Comprehensive Survey of Multimodal Large Language Models: Concept, Application and Safety**. Arxiv 2024. [[paper](https://www.researchgate.net/publication/385012837_A_Comprehensive_Survey_of_Multimodal_Large_Language_Models_Concept_Application_and_Safety)]. Oct 18, 2024. 
 
 
-### 1.3 Survery for LLMs&MLLMs for Medcine&Medical
+### 1.3 Survery for LLMs&MLLMs for Medicine
 
 1.   **Large language models in medicine**. Nature Medicine 2023. [[paper](https://www.nature.com/articles/s41591-023-02448-8)]. July 17, 2023.
 
@@ -81,7 +81,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 2. **A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**. EMNLP 2024. [[paper](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]. July 16, 2024.
 
 
-##  2. MLLM for Drug&Molecule
+##  2. MLLMs for Drug&Molecule
 
 ### 2.1 Molecular Representation Learning, Property and Interaction Prediction
 
@@ -198,13 +198,13 @@ Recent advances in artificial intelligence (AI), especially large language model
 14. **Chemthinker: Thinking like a chemist with multi-agent llms for deep molecular insights**. Arxiv 2025. [[paper](https://openreview.net/forum?id=zlAUnwhE2v)]. Sep 28, 2024.
     
 
-## 3. MLLM for Protein
+## 3. MLLMs for Protein
 
 
-### 3.1 LLM_related work
+### 3.1 LLMs_related work
 
 
-### 3.2 MLLM_related work
+### 3.2 MLLMs_related work
 
 1. A Text-guided Protein Design Framework
 
@@ -226,9 +226,9 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 ---
-##  4. MLLM for Material
+##  4. MLLMs for Material
 
-### 4.1 LLM-Related Work
+### 4.1 LLMs-Related Work
 
 1. Crystal Structure Generation with Autoregressive Large Language Modeling.
 
@@ -271,7 +271,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 
-### 4.2 MLLM-Related Work
+### 4.2 MLLMs-Related Work
 
 1. Multi-modal conditional diffusion model using signed distance functions for metal-organic frameworks generation
 
@@ -293,10 +293,10 @@ Recent advances in artificial intelligence (AI), especially large language model
     
 ---
 
-##  5. MLLM for Gene
+##  5. MLLMs for Gene
 
 
-### 5.1 LLM-Related Work
+### 5.1 LLMs-Related Work
 
 1. GP-GPT: Large Language Model for Gene-Phenotype Mapping
 
@@ -357,7 +357,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 29. DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
     
 
-### 5.2 MLLM-Related Work
+### 5.2 MLLMs-Related Work
 
 1. Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research
 
