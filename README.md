@@ -31,7 +31,7 @@ If you find this repository or our survey helpful in your research, please kindl
 
 ## Demo
 <p align="center">
-<img src="src/demo_fast.mp4" width="700">
+<img src="src/demo_3x.mp4" width="700">
 </p>
 
 ## News & Updates
