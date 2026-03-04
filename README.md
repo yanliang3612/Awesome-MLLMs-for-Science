@@ -141,15 +141,23 @@ If you find this repository or our survey helpful in your research, please kindl
 ### 3.1 LLMs_related work
 
 ### 3.2 MLLMs_related work
+#### 3.2.1 Protein Sequence-Language Integration
+1. **A Text-guided Protein Design Dramework.**. Nature Machine Intelligence 2025. [[paper][https://www.nature.com/articles/s42256-025-01011-z]]. Mar 27, 2025
+2.	**ProtT3: Protein-to-Text Generation for Text-based Protein Understanding.** ACL 2024. [[paper][https://aclanthology.org/2024.acl-long.324/]]. May 21, 2024.  ￼
+3.	**ProtCLIP: Function-Informed Protein Multi-Modal Learning.** AAAI 2025. [[paper][https://ojs.aaai.org/index.php/AAAI/article/view/34456/36611]]. Dec 28, 2024.  ￼
+4.	**OntoProtein: Protein Pretraining With Gene Ontology Embedding.** ICLR 2022. [[paper][https://arxiv.org/abs/2201.11147]]. Jan 23, 2022.
+5.	**BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine.** arXiv 2023. [[paper][https://arxiv.org/abs/2308.09442]]. Aug 18, 2023.
+6.	**ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training.** arXiv 2024. [[paper][https://arxiv.org/abs/2403.07920]]. Feb 28, 2024.
+7.	**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing.** arXiv 2024. [[paper][https://arxiv.org/abs/2402.16445]]. Feb 26, 2024.
+8.	**InstructProtein: Aligning Human and Protein Language via Knowledge Instruction.** ACL 2024. [[paper][https://aclanthology.org/2024.acl-long.62/]]. Aug, 2024.
+9.	**ESM-AA: Multi-scale Protein Language Model for Unified Molecular Modeling.** ICML 2024. [[paper][https://arxiv.org/abs/2403.12995]]. Mar 20, 2024.
+10.	**BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations.** EMNLP 2023. [[paper][https://aclanthology.org/2023.emnlp-main.70.pdf]]. Dec 2023
+11.	**BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning.** Findings of ACL 2024. [[paper][https://aclanthology.org/2024.findings-acl.71/]]. Aug 2024.
+12.	**Galactica: A Large Language Model for Science.** arXiv 2022. [[paper][https://arxiv.org/abs/2211.09085]]. Nov 16, 2022.
+13.	**ProtChatGPT: Towards Understanding Proteins with Large Language Models.** arXiv 2024. [[paper][https://arxiv.org/abs/2402.09649]]. Feb 15, 2024.  
+#### 3.2.2 Protein Structure-Sequence-Language Integration
 
-1. A Text-guided Protein Design Framework
-2. ProtT3: Protein-to-Text Generation for Text-based Protein Understanding
-3. ProtCLIP: Function-Informed Protein Multi-Modal Learning
-4. Language models for protein design
-5. Chemical Language Model Linker: blending text and molecules with modular adapters
-6. MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization
-7. Computational Protein Science in the Era of Large Language Models (LLMs)
-8. OntoProtein: Protein Pretraining With Gene Ontology Embedding
+#### 3.2.3 Protein Interactions and Specialized Application
 
 ---
 
