@@ -1,4 +1,4 @@
-# A Comprehensive Survey of Multimodal LLMs for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# A Comprehensive Survey of Multimodal LLMs for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
 [[Project Page]](https://bagayalus.github.io/S3-Bench/) [[OpenReview]](https://openreview.net/forum?id=HSz1Kr5BeC) [[Preprint]](https://www.preprints.org/manuscript/202602.1847) 
