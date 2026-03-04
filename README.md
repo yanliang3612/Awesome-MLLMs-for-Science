@@ -370,7 +370,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 5. A multimodal conversational agent for DNA, RNA and protein tasks
 
 
-### Please cite us if you find our work helpful
+## 6. Please cite us if you find our work helpful
 
 ```bash
 @article{202602.1847,
