@@ -77,141 +77,9 @@ Recent advances in artificial intelligence (AI), especially large language model
 2. **A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**. EMNLP 2024. [[paper](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]. July 16, 2024.
 
 
+##  2. MLLM for Drug&Molecule
 
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-##  2. MLLM for Image&Vedio
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 3. MLLM for Speech
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 4. MLLM for Medical
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-##  5. MLLM for Drug&Molecule
-
-### 5.1 Molecular Representation Learning, Property and Interaction Prediction
+### 2.1 Molecular Representation Learning, Property and Interaction Prediction
 
 1. **Exploring bitter and sweet: the application of large language models in molecular taste prediction**. Journal of Chemical Information and Modeling 2024. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00681)]. May 7, 2024.
 
@@ -246,7 +114,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 
-### 5.2 De Novo Molecular Generation with LLMs
+### 2.2 De Novo Molecular Generation with LLMs
 
 1. **MolGPT: Molecular generation using a transformer-decoder model**. Journal of Chemical Information and Modeling 2021. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600)] [[code](https://github.com/devalab/molgpt)]. Oct 25, 2021. 
    
@@ -262,7 +130,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 
-### 5.3 Controlled Molecule Optimization and Editing
+### 2.3 Controlled Molecule Optimization and Editing
 
 1. **Leveraging language model for advanced multiproperty molecular optimization via prompt engineering.** Nature Machine Intelligence 2024. [[paper](https://www.nature.com/articles/s42256-024-00916-5)] [[code](https://github.com/wzxxxx/Prompt-MolOpt)]. Oct 21, 2024. 
    
@@ -282,7 +150,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 
-### 5.4 Chemical Reaction Prediction and Synthesis Planning
+### 2.4 Chemical Reaction Prediction and Synthesis Planning
 
 1. **Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models**. ACS Central Science 2017. [[paper](https://pubs.acs.org/doi/10.1021/acscentsci.7b00303)] [[code](https://github.com/pandegroup/reaction_prediction_seq2seq)]. Sep 5, 2017. 
 
@@ -294,7 +162,8 @@ Recent advances in artificial intelligence (AI), especially large language model
    
 5. **Reactgpt: Understanding of chemical reactions via in-context tuning**. AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/31983)]. April 11, 2025. 
 
-### 5.5 Multi-Modal LLMs and Chemistry-Focused Agents
+
+### 2.5 Multi-Modal LLMs and Chemistry-Focused Agents
 
 1.  **ChemCrow: Augmenting large-language models with chemistry tools**. Nature Machine Intelligence 2024. [[paper](https://www.nature.com/articles/s42256-024-00832-8)] [[code](https://github.com/ur-whitelab/chemcrow-runs)]. May 08, 2024.
 
@@ -325,17 +194,13 @@ Recent advances in artificial intelligence (AI), especially large language model
 14. **Chemthinker: Thinking like a chemist with multi-agent llms for deep molecular insights**. Arxiv 2025. [[paper](https://openreview.net/forum?id=zlAUnwhE2v)]. Sep 28, 2024.
     
 
-
----
-
-
-## 6. MLLM for Protein
+## 3. MLLM for Protein
 
 
-### 6.1 LLM_related work
+### 3.1 LLM_related work
 
 
-### 6.2 MLLM_related work
+### 3.2 MLLM_related work
 
 1. A Text-guided Protein Design Framework
 
@@ -357,9 +222,9 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 ---
-##  7. MLLM for Material
+##  4. MLLM for Material
 
-### 7.1 LLM-Related Work
+### 4.1 LLM-Related Work
 
 1. Crystal Structure Generation with Autoregressive Large Language Modeling.
 
@@ -402,7 +267,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 
-### 7.2 MLLM-Related Work
+### 4.2 MLLM-Related Work
 
 1. Multi-modal conditional diffusion model using signed distance functions for metal-organic frameworks generation
 
@@ -424,10 +289,10 @@ Recent advances in artificial intelligence (AI), especially large language model
     
 ---
 
-##  8. MLLM for Gene
+##  5. MLLM for Gene
 
 
-### 8.1 LLM-Related Work
+### 5.1 LLM-Related Work
 
 1. GP-GPT: Large Language Model for Gene-Phenotype Mapping
 
@@ -488,7 +353,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 29. DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
     
 
-### 8.2 MLLM-Related Work
+### 5.2 MLLM-Related Work
 
 1. Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research
 
