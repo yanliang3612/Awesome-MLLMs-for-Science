@@ -3,6 +3,9 @@
 
 [[Project Page]](https://bagayalus.github.io/S3-Bench/) [[OpenReview]](https://openreview.net/forum?id=HSz1Kr5BeC) [[Preprint]](https://www.preprints.org/manuscript/202602.1847) 
 
+Author list: Liang Yan*, Xu Jiang*, Jian Ma*, Yuhang Liu, Tian Bian, Qichao Wang, Abhishek Basu, Yu Rong, Tingyang Xu, Pengcheng Wu, Le Song, Imran Razzak, Junchi Yan, Zengfeng Huang, Yutong Xie.
+
+
 Recent advances in artificial intelligence (AI), especially large language models, have accelerated the integration of multimodal data in scientific research. Given that scientific fields involve diverse data types, ranging from text and images to complex biological sequences, graphs, and structures, multimodal large language models (MLLMs) have emerged as powerful tools to bridge these modalities, enabling more comprehensive data analysis and intelligent decision-making. This work, S3−Bench, provides a comprehensive overview of recent advances in MLLMs, focusing on their diverse applications across science. We systematically review the progress of MLLMs in key scientific domains, including drug discovery, molecular & protein design, materials science, and genomics. The work highlights model architectures, domain-specific adaptations, benchmark datasets, and promising future directions. Our work aims to serve as a valuable resource for both researchers and practitioners interested in the rapidly evolving landscape of multimodal AI for science.
 
 
@@ -364,3 +367,20 @@ Recent advances in artificial intelligence (AI), especially large language model
 4. GeneChat: A Multi-Modal Large Language Model for Gene Function Prediction
 
 5. A multimodal conversational agent for DNA, RNA and protein tasks
+
+
+### Please cite us if you find our work helpful
+
+```bash
+@article{202602.1847,
+	doi = {10.20944/preprints202602.1847.v1},
+	url = {https://doi.org/10.20944/preprints202602.1847.v1},
+	year = 2026,
+	month = {February},
+	publisher = {Preprints},
+	author = {Liang Yan and Xu Jiang and Jian Ma and Yuhang Liu and Tian Bian and Qichao Wang and Abhishek Basu and Yu Rong and Tingyang Xu and Pengcheng Wu and Le Song and Imran Razzak and Junchi Yan and Zengfeng Huang and Yutong Xie},
+	title = {A Comprehensive Survey of Multimodal LLMs for Scientific Discovery},
+	journal = {Preprints}
+}
+```
+
