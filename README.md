@@ -1,7 +1,7 @@
 # A Comprehensive Survey of Multimodal LLMs for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
-[[Project Page]](https://bagayalus.github.io/S3-Bench/) [[OpenReview]](https://openreview.net/forum?id=HSz1Kr5BeC) [[Preprint]](https://www.preprints.org/manuscript/202602.1847) 
+[[Project Page]](https://bagayalus.github.io/S3-Bench/) [[Preprint]](https://www.preprints.org/manuscript/202602.1847) [[OpenReview]](https://openreview.net/forum?id=HSz1Kr5BeC)
 
 Author list: [Liang Yan](https://divinyan.com/)†‡, [Xu Jiang](https://openreview.net/profile?id=~Xu_Jiang9)‡, [Jian Ma](https://openreview.net/profile?id=~Jian_Ma8)‡, [Yuhang Liu](https://openreview.net/profile?id=~Yuhang_Liu21), [Tian Bian](https://scholar.google.com/citations?user=rxmCzYIAAAAJ&hl=zh-TW), [Qichao Wang](https://qichaowang.me/), [Abhishek Basu](https://abasu.ai/), [Yu Rong](https://royrong.me/), [Tingyang Xu](https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=zh-CN),[Pengcheng Wu](https://scholar.google.com/citations?user=kX_GFDIAAAAJ&hl=en), [Le Song](https://dasongle.github.io/), [Imran Razzak](https://imranrazzak.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn/)§, [Zengfeng Huang](https://zengfenghuang.github.io/)§, [Yutong Xie](https://ytongxie.github.io/)§
 
