@@ -30,9 +30,9 @@ If you find this repository or our survey helpful in your research, please kindl
 ```
 
 ## Demo
-<p align="center">
+[<p align="center">
 <img src="src/demo_3x.mp4" width="700">
-</p>
+</p>](https://github.com/yanliang3612/Awesome-MLLMs-for-Science/issues/1#issue-4022460846)
 
 ## News & Updates
 
