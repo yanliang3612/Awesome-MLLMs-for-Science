@@ -1,6 +1,6 @@
 # A Comprehensive Survey of Multimodal LLMs for Scientific Discovery
 
-[[Project Page]](https://bagayalus.github.io/S3-Bench/) [[Paper]](https://openreview.net/forum?id=HSz1Kr5BeC) 
+[[Project Page]](https://bagayalus.github.io/S3-Bench/) [[OpenReview]](https://openreview.net/forum?id=HSz1Kr5BeC) [[Preprint]](https://www.preprints.org/manuscript/202602.1847) 
 
 ---
 
