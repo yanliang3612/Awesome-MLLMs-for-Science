@@ -29,7 +29,10 @@ If you find this repository or our survey helpful in your research, please kindl
 }
 ```
 
-
+## Demo
+<p align="center">
+<img src="src/demo.gif" width="700">
+</p>
 
 ## News & Updates
 
