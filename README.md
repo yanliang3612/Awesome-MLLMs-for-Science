@@ -3,7 +3,7 @@
 
 [[Project Page]](https://bagayalus.github.io/S3-Bench/) [[OpenReview]](https://openreview.net/forum?id=HSz1Kr5BeC) [[Preprint]](https://www.preprints.org/manuscript/202602.1847) 
 
-Author list: Liang Yan†‡, Xu Jiang‡, Jian Ma‡, Yuhang Liu, Tian Bian, Qichao Wang, Abhishek Basu, Yu Rong, Tingyang Xu, Pengcheng Wu, Le Song, Imran Razzak, Junchi Yan*, Zengfeng Huang*, Yutong Xie*
+Author list: [Liang Yan]()†‡, [Xu Jiang]()‡, [Jian Ma]()‡, [Yuhang Liu](), [Tian Bian](), [Qichao Wang](), [Abhishek Basu](), [Yu Rong](), [Tingyang Xu](),[Pengcheng Wu](), [Le Song](), [Imran Razzak](), [Junchi Yan]()*, [Zengfeng Huang]()*, [Yutong Xie]()*
 
 († Project Lead, ‡ Equal Contribution, * Corresponding Author)
 
