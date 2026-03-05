@@ -1,4 +1,4 @@
-# A Comprehensive Survey of Multimodal LLMs for Scientific Discovery [Awesome](https://awesome.re) [License: MIT](https://opensource.org/licenses/MIT)
+# A Comprehensive Survey of Multimodal LLMs for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <video src="https://github.com/user-attachments/assets/d91ea824-d101-4d6d-ac10-7323cc2791b0"></video>
 
