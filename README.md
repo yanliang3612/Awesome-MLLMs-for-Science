@@ -1,5 +1,8 @@
 # A Comprehensive Survey of Multimodal LLMs for Scientific Discovery [Awesome](https://awesome.re) [License: MIT](https://opensource.org/licenses/MIT)
 
+<video src="https://github.com/user-attachments/assets/d91ea824-d101-4d6d-ac10-7323cc2791b0"></video>
+
+
 [[Project Page]](https://bagayalus.github.io/S3-Bench/) [[Preprint]](https://www.preprints.org/manuscript/202602.1847) [[OpenReview]](https://openreview.net/forum?id=HSz1Kr5BeC)
 
 Author list: [Liang Yan](https://divinyan.com/)†‡, [Xu Jiang](https://openreview.net/profile?id=~Xu_Jiang9)‡, [Jian Ma](https://openreview.net/profile?id=~Jian_Ma8)‡, [Yuhang Liu](https://openreview.net/profile?id=~Yuhang_Liu21), [Tian Bian](https://scholar.google.com/citations?user=rxmCzYIAAAAJ&hl=zh-TW), [Qichao Wang](https://qichaowang.me/), [Abhishek Basu](https://abasu.ai/), [Yu Rong](https://royrong.me/), [Tingyang Xu](https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=zh-CN),[Pengcheng Wu](https://scholar.google.com/citations?user=kX_GFDIAAAAJ&hl=en), [Le Song](https://dasongle.github.io/), [Imran Razzak](https://imranrazzak.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn/)§, [Zengfeng Huang](https://zengfenghuang.github.io/)§, [Yutong Xie](https://ytongxie.github.io/)§
@@ -29,16 +32,13 @@ If you find this repository or our survey helpful in your research, please kindl
 }
 ```
 
-## Demo
-<video src="https://github.com/user-attachments/assets/d91ea824-d101-4d6d-ac10-7323cc2791b0"></video>
 
 
 
 ## News & Updates
 
 - **2026-02-27:**  Our preprint is available online at [Preprints.org](https://preprints.org/) ! Check [here](https://www.preprints.org/manuscript/202602.1847).
-- # **2025-11-13:** The first version of S3Bench are accepted by [NeurIPS 2025 VLM4RWD Workshop](https://mozhgan91.github.io/vlm4rwd-neurips25-ws/) ! Check our [project page](https://bagayalus.github.io/S3-Bench/).
-
+- **2025-11-13:** The first version of S3Bench are accepted by [NeurIPS 2025 VLM4RWD Workshop](https://mozhgan91.github.io/vlm4rwd-neurips25-ws/) ! Check our [project page](https://bagayalus.github.io/S3-Bench/).
 
 
 ## 1. Related Survery Work
