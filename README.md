@@ -15,10 +15,6 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 *If you find this repository or our survey helpful in your research, please kindly cite our paper:*
 
-If you find this repository or our survey helpful in your research, please kindly cite our paper:
-
-
-
 ```bibtex
 @article{202602.1847,
 	doi = {10.20944/preprints202602.1847.v1},
