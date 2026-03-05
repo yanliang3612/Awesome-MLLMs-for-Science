@@ -136,9 +136,9 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 ## 3. MLLMs for Protein
 
-### 3.1 LLMs_related work
+### 3.1 LLMs related work
 
-### 3.2 MLLMs_related work
+### 3.2 MLLMs related work
 #### 3.2.1 Protein Sequence-Language Integration
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -252,10 +252,16 @@ Recent advances in artificial intelligence (AI), especially large language model
 29. DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 
 ### 5.2 MLLMs-Related Work
-
-1. Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research
-2. GexMolGen: cross-modal generation of hit-like molecules via large language model encoding of gene expression signatures
-3. Towards multimodal foundation models in molecular cell biology
-4. GeneChat: A Multi-Modal Large Language Model for Gene Function Prediction
-5. A multimodal conversational agent for DNA, RNA and protein tasks
-
+|  Title  |   Category  |   Venue  |   Date   |   Code   |
+|:--------|:----------:|:--------:|:--------:|:--------:|
+| [GeneChat](https://www.biorxiv.org/content/10.1101/2025.06.05.658031v1) | Function Prediction | bioRxiv | Jun 5, 2025 | [code](https://github.com/Shashi-Sekar/GeneChat) |
+| ChatNT | Multi-task | arXiv | Apr 30, 2024 | - |
+| [LLaMA-Gene](https://arxiv.org/abs/2412.00471) | Multi-task | arXiv | Nov 30, 2024 | [code](https://github.com/maris205/llama-gene) |
+| [OmniCellTOSG](https://arxiv.org/abs/2504.02148) | Multi-task | arXiv | Apr 2, 2025 | [code](https://github.com/FuhaiLiAiLab/OmniCellTOSG) |
+| [Geneverse](https://arxiv.org/abs/2406.15534) | Multi-task | arXiv | Jul 21, 2024 | [code](https://github.com/HelloWorldLTY/Geneverse) |
+| [GenoMAS](https://arxiv.org/abs/2507.21035) | Gene Expression Analysis | arXiv | Jul 8, 2025 | [code](https://github.com/GenomicsAI/GenoMAS) |
+| [cGSA](https://arxiv.org/abs/2506.04303) | Gene Expression Analysis | arXiv | Jun 4, 2025 | - |
+| [GTA](https://arxiv.org/abs/2410.01858) | Gene Expression Analysis | arXiv | Oct 2, 2024 | - |
+| [LLM4GRN](https://arxiv.org/abs/2410.15828) | Regulatory | arXiv | Oct 21, 2024 | - |
+| [GeneBERT](https://arxiv.org/abs/2110.05231) | Regulatory | arXiv | Oct 11, 2021 | - |
+| [GeneCompass](https://www.biorxiv.org/content/10.1101/2023.09.26.559542v1) | Regulatory | bioRxiv | Sep 28, 2023 | [code](https://github.com/xCompass-AI/GeneCompass) |
