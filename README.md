@@ -140,23 +140,43 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 ### 3.2 MLLMs_related work
 #### 3.2.1 Protein Sequence-Language Integration
-1. **A Text-guided Protein Design Dramework.**. Nature Machine Intelligence 2025. [[paper][https://www.nature.com/articles/s42256-025-01011-z]]. Mar 27, 2025
-2.	**ProtT3: Protein-to-Text Generation for Text-based Protein Understanding.** ACL 2024. [[paper][https://aclanthology.org/2024.acl-long.324/]]. May 21, 2024.  ￼
-3.	**ProtCLIP: Function-Informed Protein Multi-Modal Learning.** AAAI 2025. [[paper][https://ojs.aaai.org/index.php/AAAI/article/view/34456/36611]]. Dec 28, 2024.  ￼
-4.	**OntoProtein: Protein Pretraining With Gene Ontology Embedding.** ICLR 2022. [[paper][https://arxiv.org/abs/2201.11147]]. Jan 23, 2022.
-5.	**BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine.** arXiv 2023. [[paper][https://arxiv.org/abs/2308.09442]]. Aug 18, 2023.
-6.	**ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training.** arXiv 2024. [[paper][https://arxiv.org/abs/2403.07920]]. Feb 28, 2024.
-7.	**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing.** arXiv 2024. [[paper][https://arxiv.org/abs/2402.16445]]. Feb 26, 2024.
-8.	**InstructProtein: Aligning Human and Protein Language via Knowledge Instruction.** ACL 2024. [[paper][https://aclanthology.org/2024.acl-long.62/]]. Aug, 2024.
-9.	**ESM-AA: Multi-scale Protein Language Model for Unified Molecular Modeling.** ICML 2024. [[paper][https://arxiv.org/abs/2403.12995]]. Mar 20, 2024.
-10.	**BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations.** EMNLP 2023. [[paper][https://aclanthology.org/2023.emnlp-main.70.pdf]]. Dec 2023
-11.	**BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning.** Findings of ACL 2024. [[paper][https://aclanthology.org/2024.findings-acl.71/]]. Aug 2024.
-12.	**Galactica: A Large Language Model for Science.** arXiv 2022. [[paper][https://arxiv.org/abs/2211.09085]]. Nov 16, 2022.
-13.	**ProtChatGPT: Towards Understanding Proteins with Large Language Models.** arXiv 2024. [[paper][https://arxiv.org/abs/2402.09649]]. Feb 15, 2024.  
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [A Text-guided Protein Design Dramework.](https://www.nature.com/articles/s42256-025-01011-z) | Nature Machine Intelligence | Mar 27, 2025 | [code](https://github.com/chao1224/ProteinDT) |
+| [ProtT3: Protein-to-Text Generation for Text-based Protein Understanding.](https://aclanthology.org/2024.acl-long.324/) | ACL | May 21, 2024 | [code](https://github.com/acharkq/ProtT3) |
+| [ProtCLIP: Function-Informed Protein Multi-Modal Learning.](https://ojs.aaai.org/index.php/AAAI/article/view/34456/36611) | AAAI | Dec 28, 2024 | [code](https://github.com/diaoshaoyou/ProtCLIP) |
+| [OntoProtein: Protein Pretraining With Gene Ontology Embedding.](https://arxiv.org/abs/2201.11147) | ICLR | Jan 23, 2022 | [code](https://github.com/zjunlp/OntoProtein) |
+| [BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine.](https://arxiv.org/abs/2308.09442) | arXiv | Aug 18, 2023 | - |
+| [ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training.](https://arxiv.org/abs/2403.07920) | arXiv | Feb 28, 2024 | [code](https://github.com/ProtLLM/ProtLLM) |
+| [ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing.](https://arxiv.org/abs/2402.16445) | arXiv | Feb 26, 2024 | [code](https://github.com/PKU-YuanGroup/ProLLaMA) |
+| [InstructProtein: Aligning Human and Protein Language via Knowledge Instruction.](https://aclanthology.org/2024.acl-long.62/) | ACL | Aug, 2024 | [code](https://github.com/HICAI-ZJU/InstructProtein) |
+| [ESM-AA: Multi-scale Protein Language Model for Unified Molecular Modeling.](https://arxiv.org/abs/2403.12995) | ICML | Mar 20, 2024 | [code](https://github.com/zhengkangjie/ESM-AA) |
+| [BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations.](https://aclanthology.org/2023.emnlp-main.70.pdf) | EMNLP | Dec 2023 | [code](https://github.com/QizhiPei/BioT5) |
+| [BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning.](https://aclanthology.org/2024.findings-acl.71/) | Findings of ACL | Aug 2024 | [code](https://github.com/QizhiPei/BioT5) |
+| [Galactica: A Large Language Model for Science.](https://arxiv.org/abs/2211.09085) | arXiv | Nov 16, 2022 | [code](https://github.com/paperswithcode/galai) |
+
 #### 3.2.2 Protein Structure-Sequence-Language Integration
-
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [Simulating 500 Million Years of Evolution with a Language Model.](https://www.science.org/doi/10.1126/science.ads0018) | Science | Jan 16, 2025 | - |
+| [Adapting protein language models for structure-conditioned design.](https://www.biorxiv.org/content/10.1101/2024.08.03.606485v1) | bioRXiv | Aug 3, 2024 | [code](https://github.com/Profluent-AI/proseLM-public) |
+| [SaProt: Protein Language Modeling with Structure-Aware Vocabulary](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v3) | bioRXiv | Oct 1, 2023 | [code](https://github.com/westlake-repl/SaProt) |
+| [FoldToken: Learning Protein Language via Vector Quantization and Beyond.](https://arxiv.org/abs/2403.09673) | arXiv | Feb 4, 2024 | [code](https://github.com/A4Bio/FoldToken_open) |
+| [Decoding the Molecular Language of Proteins with Evola.](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1) | biRXiv | Jan 5, 2025 | - |
+| [DPLM-2: A Multimodal Diffusion Protein Language Model.](https://arxiv.org/abs/2410.13782) | arXiv | Oct 17, 2024 | [code](https://github.com/bytedance/dplm) |
+| [ProTokens: A Machine-Learned Language for Compact and Informative Encoding of Protein 3D Structures.](https://www.biorxiv.org/content/10.1101/2023.11.27.568722v2) | bioRXiv | Nov 27, 2023 | - |
+| [ProSST: Protein Language Modeling with Quantized Structure and Disentangled Attention.](https://www.biorxiv.org/content/10.1101/2024.04.15.589672v2) | bioRXiv | Apr 15, 2024 | [code](https://github.com/openmedlab/ProSST) |
+| [ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding.](https://arxiv.org/abs/2408.11363) | arXiv | Aug 21, 2024 | [code](https://github.com/OviaLabs/ProteinGPT) |
+| [ProtChatGPT: Towards Understanding Proteins with Large Language Models.](https://arxiv.org/abs/2402.09649) | arXiv | Feb 15, 2024 | - |
+| [STELLA: Towards Protein Function Prediction with Multimodal LLMs Integrating Sequence-Structure Representations.](https://arxiv.org/abs/2506.03800) | arXiv | Jun 4, 2025 | - |
+| [Advancing biomolecular understanding and design following human instructions.](https://arxiv.org/abs/2410.07919) | arXiv | Oct 10, 2024 | [code](https://github.com/HICAI-ZJU/InstructBioMol) |
 #### 3.2.3 Protein Interactions and Specialized Application
-
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs.](https://arxiv.org/abs/2310.03320) | arXiv | Oct 5, 2023 | [code](https://github.com/RyanWangZf/BioBridge) |
+| [MolBind: Multimodal Alignment of Language, Molecules, and Proteins.](https://arxiv.org/abs/2403.08167) | ariXiv | Mar 13, 2024 | [code](https://github.com/amelie-iska/MolBind) |
+| [Large language and protein assistant for protein-protein interactions prediction.](https://aclanthology.org/2025.acl-long.554.pdf) | ACL | 2025 | [code](https://github.com/HHW-zhou/LLAPA) |
+| [Multilingual translation for zero-shot biomedical classification using BioTranslato.](https://www.nature.com/articles/s41467-023-36476-2) | Nature Communications | Feb 10, 2023 | [code](https://github.com/HanwenXuTHU/BioTranslatorProject) |
 ---
 
 ## 4. MLLMs for Material
