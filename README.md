@@ -221,41 +221,12 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 ### 5.1 LLMs-Related Work
 
-1. GP-GPT: Large Language Model for Gene-Phenotype Mapping
-2. Genetic Transformer: An Innovative Large Language Model Driven Approach for Rapid and Accurate Identification of Causative Variants in Rare Genetic Diseases
-3. Evaluation of large language models for discovery of gene set function
-4. Assessing the utility of large language models for phenotype-driven gene prioritization in the diagnosis of rare genetic disease
-5. Harnessing large language models (LLMs) for candidate gene prioritization and selection
-6. Gene-associated Disease Discovery Powered by Large Language Models
-7. GeneGPT: augmenting large language models with domain tools for improved access to biomedical information
-8. Assessing the Utility of Large Language Models for Phenotype-Driven Gene Prioritization in Rare Genetic Disorder Diagnosis
-9. Enhancing gene set overrepresentation analysis with large language models
-10. Benchmarking large language models for genomic knowledge with GeneTuring
-11. A large language model framework for literature-based disease–gene association prediction
-12. Cancer gene identification through integrating causal prompting large language model with omics data–driven causal inference
-13. Large language models generate functional protein sequences across diverse families
-14. FGeneBERT: function-driven pre-trained gene language model for metagenomics
-15. Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions for Large Language Models
-16. QWENDY: Gene Regulatory Network Inference Enhanced by Large Language Model and Transformer
-17. Exploring Genomic Large Language Models: Bridging the Gap between Natural Language and Gene Sequences
-18. Language modelling techniques for analysing the impact of human genetic variation
-19. Integrating unsupervised language model with triplet neural networks for protein gene ontology prediction
-20. Genomic Language Models (gLMs) decode bacterial genomes for improved gene prediction and translation initiation site identification
-21. Can Large Language Models Predict Antimicrobial Resistance Gene?
-22. Automating Candidate Gene Prioritization with Large Language Models: Development and Benchmarking of an API-Driven Workflow Leveraging GPT-4
-23. GENATATOR: de novo Gene Annotation With DNA Language Mode
-24. Database-Augmented Transformer-Based Large Language Models Achieve High Accuracy in Mapping Gene-Phenotype Relationships
-25. Identification of gene function using prediction by partial matching (PPM) language models
-26. Survey of Genetic Programming and Large Language Models
-27. Small, Open-Source Text-Embedding Models as Substitutes to OpenAI Models for Gene Analysis
-28. OntoProtein: Protein Pretraining With Gene Ontology Embedding
-29. DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 
-### 5.2 MLLMs-Related Work
+### 5.2 MLLMs Related Work
 |  Title  |   Category  |   Venue  |   Date   |   Code   |
 |:--------|:----------:|:--------:|:--------:|:--------:|
 | [GeneChat](https://www.biorxiv.org/content/10.1101/2025.06.05.658031v1) | Function Prediction | bioRxiv | Jun 5, 2025 | [code](https://github.com/Shashi-Sekar/GeneChat) |
-| ChatNT | Multi-task | arXiv | Apr 30, 2024 | - |
+| [ChatNT](https://www.nature.com/articles/s42256-025-01047-1) | Multi-task | Nature Machine Intelligence | Jun 6, 2025 | [code](https://huggingface.co/InstaDeepAI/ChatNT) |
 | [LLaMA-Gene](https://arxiv.org/abs/2412.00471) | Multi-task | arXiv | Nov 30, 2024 | [code](https://github.com/maris205/llama-gene) |
 | [OmniCellTOSG](https://arxiv.org/abs/2504.02148) | Multi-task | arXiv | Apr 2, 2025 | [code](https://github.com/FuhaiLiAiLab/OmniCellTOSG) |
 | [Geneverse](https://arxiv.org/abs/2406.15534) | Multi-task | arXiv | Jul 21, 2024 | [code](https://github.com/HelloWorldLTY/Geneverse) |
