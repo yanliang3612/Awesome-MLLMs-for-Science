@@ -115,14 +115,17 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 ### 2.3 Controlled Molecule Optimization and Editing
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [Leveraging language model for advanced multiproperty molecular optimization via prompt engineering](https://www.nature.com/articles/s42256-024-00916-5) | Nature Machine Intelligence | Oct 21, 2024 | [code](https://github.com/wzxxxx/Prompt-MolOpt) |
+| [Small molecule optimization with large language models](https://arxiv.org/abs/2407.18897) | arXiv | Jul 26, 2024 | [code](https://github.com/yerevann/chemlactica) |
+| [Lico: Large language models for in-context molecular optimization](https://openreview.net/forum?id=yu1vqQqKkx) | ICLR 2025 | Jun 27, 2024 | [code](https://github.com/tung-nd/LICO) |
+| Not just another molecule generator: Artificial intelligence in drug discovery | TBA | TBA | - |
+| [MolT5: Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817) | EMNLP 2022 | Apr 25, 2022 | [code](https://github.com/blender-nlp/MolT5) |
+| [Mollm: Multi-objective large language model for molecular design–optimizing with experts](https://arxiv.org/html/2502.12845v1) | arXiv | Feb 18, 2025 | - |
+| [Drugassist: A large language model for molecule optimization](https://academic.oup.com/bib/article/26/1/bbae693/7942355) | Briefings in Bioinformatics | Dec 28, 2023 | [code](https://github.com/blazerye/DrugAssist) |
 
-1. **Leveraging language model for advanced multiproperty molecular optimization via prompt engineering.** Nature Machine Intelligence 2024. [[paper](https://www.nature.com/articles/s42256-024-00916-5)] [[code](https://github.com/wzxxxx/Prompt-MolOpt)]. Oct 21, 2024.
-2. **Small molecule optimization with large language models**. Arxiv 2024. [[paper](https://arxiv.org/abs/2407.18897)] [[code](https://github.com/yerevann/chemlactica)]. July 26, 2024.
-3. **Lico: Large language models for in-context molecular optimization**. ICLR 2025. [[paper](https://openreview.net/forum?id=yu1vqQqKkx)] [[code](https://github.com/tung-nd/LICO)]. June 27, 2024.
-4. **Not just another molecule generator: Artificial intelligence in drug discovery**. TBA
-5. **MolT5: Translation between Molecules and Natural Language**.  EMNLP 2022. [[paper](https://arxiv.org/abs/2204.11817)] [[code](https://github.com/blender-nlp/MolT5)]. April 25, 2022.
-6. **Mollm: Multi-objective large language model for molecular design–optimizing with experts**. Arxiv 2025. [[paper](https://arxiv.org/html/2502.12845v1)]. Feb 18, 2025.
-7. **Drugassist: A large language model for molecule optimization**. Briefings in Bioinformatics 2024. [[paper](https://academic.oup.com/bib/article/26/1/bbae693/7942355)] [[code](https://github.com/blazerye/DrugAssist)]. Dec 28, 2023.
+
 
 ### 2.4 Chemical Reaction Prediction and Synthesis Planning
  
@@ -131,6 +134,8 @@ Recent advances in artificial intelligence (AI), especially large language model
 3. **State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis**. Nature Communications 2020. [[paper](https://www.nature.com/articles/s41467-020-19266-y)] [[code](https://github.com/bigchem/synthesis)]. Nov 04, 2020.
 4. **Bridging chemistry and artificial intelligence by a reaction description language**. Nature Machine Intelligence 2025. [[paper](https://www.nature.com/articles/s42256-025-01032-8)] [[code](https://github.com/jiachengxiong/ReactSeq)]. May 13, 2025.
 5. **Reactgpt: Understanding of chemical reactions via in-context tuning**. AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/31983)]. April 11, 2025.
+
+
 
 ### 2.5 Multi-Modal LLMs and Chemistry-Focused Agents
 
@@ -148,6 +153,12 @@ Recent advances in artificial intelligence (AI), especially large language model
 12. **ChemToolAgent: The impact of tools on language agents for chemistry problem solving**. Arxiv 2024. [[paper](https://arxiv.org/abs/2411.07228)] [[code](https://github.com/OSU-NLP-Group/ChemToolAgent)]. Nov 11, 2024.
 13. **Chemagent: Self-updating memories in large language models improves chemical reasoning**. ICLR 2025. [[paper](https://openreview.net/forum?id=kuhIqeVg0e)] [[code](https://github.com/gersteinlab/ChemAgent)]. Mar 12, 2025.
 14. **Chemthinker: Thinking like a chemist with multi-agent llms for deep molecular insights**. Arxiv 2025. [[paper](https://openreview.net/forum?id=zlAUnwhE2v)]. Sep 28, 2024.
+
+
+
+
+
+
 
 ## 3. MLLMs for Protein
 
