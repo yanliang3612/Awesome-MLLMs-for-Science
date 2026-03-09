@@ -51,15 +51,6 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196) | arXiv | Feb 9, 2024 | - |
 | [A survey on large language models: Applications, challenges, limitations, and practical usage](https://doi.org/10.36227/techrxiv.23589741.v8) | TechRxiv | Jan 14, 2025 | [project page](https://github.com/anas-zafar/LLM-Survey) |
 
-### 1.2 Survery for General MLLMs
-
-1. **A Survey on Multimodal Large Language Models**. National Science Review 2024. [[paper](https://arxiv.org/abs/2306.13549)] [[project page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]. Jun 23, 2023.
-2. **Multimodal large language models: A survey**. IEEE BigData 2023. [[paper](https://arxiv.org/abs/2311.13165)]. Nov 22, 2023.
-3. **The revolution of multimodal large language models: a survey**. ACL 2024 (Findings). [[paper](https://arxiv.org/abs/2402.12451)]. Feb 19, 2024.
-4. **Efficient Multimodal Large Language Models: A Survey**. Arxiv 2024. [[paper](https://arxiv.org/abs/2405.10739)] [[project page](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey)]. May 17, 2024.
-5. **A Survey of Multimodal Large Language Model from A Data-centric Perspective**. Arxiv 2024. [[paper](https://arxiv.org/abs/2405.16640)] [[project page](https://github.com/beccabai/Data-centric_multimodal_LLM?tab=readme-ov-file)]. May 26, 2024.
-6. **A Survey of Multimodel Large Language Models**. CAICE 2024. [[paper](https://dl.acm.org/doi/10.1145/3672758.3672824)]. Aug 06, 2024.
-7. **A Comprehensive Survey of Multimodal Large Language Models: Concept, Application and Safety**. Arxiv 2024. [[paper](https://www.researchgate.net/publication/385012837_A_Comprehensive_Survey_of_Multimodal_Large_Language_Models_Concept_Application_and_Safety)]. Oct 18, 2024.
 
 ### 1.2 Survey for General MLLMs
 |  Title  |   Venue  |   Date   |   Project Page   |
@@ -72,16 +63,20 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [A Survey of Multimodel Large Language Models](https://dl.acm.org/doi/10.1145/3672758.3672824) | CAICE 2024 | Aug 06, 2024 | - |
 | [A Comprehensive Survey of Multimodal Large Language Models: Concept, Application and Safety](https://www.researchgate.net/publication/385012837_A_Comprehensive_Survey_of_Multimodal_Large_Language_Models_Concept_Application_and_Safety) | arXiv | Oct 18, 2024 | - |
 
-### 1.3 Survery for LLMs&MLLMs for Medicine
 
-1. **Large language models in medicine**. Nature Medicine 2023. [[paper](https://www.nature.com/articles/s41591-023-02448-8)]. July 17, 2023.
-2. **A Survey of Large Language Models in Medicine: Progress, Application, and Challenge**. Arxiv 2023. [[paper](https://arxiv.org/abs/2311.05112)] [[project page](https://github.com/AI-in-Health/MedLLMsPracticalGuide)]. Nov 9, 2023.
-3. **A survey of large language models for healthcare: from data, technology, and applications to accountability and ethics**. Arxiv 2023. [[paper](https://arxiv.org/abs/2310.05694)] [[project page](https://github.com/KaiHe-better/LLM-for-Healthcare)]. Oct 9, 2023.
-4. **A comprehensive survey of large language models and multimodal large language models in medicine**. Arxiv 2024. [[paper](https://arxiv.org/abs/2405.08603)]. May 14, 2024.
-5. **Large language models for medicine: a survey**. Arxiv 2024. [[paper](https://arxiv.org/abs/2405.13055)]. May 20, 2024.
-6. **A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**. Arxiv 2024.  [[paper](https://arxiv.org/abs/2406.03712)]. June 6, 2024.
-7. **Large language models in medical and healthcare fields: applications, advances, and challenges**. Artificial Intelligence Review 2024. [[paper](https://link.springer.com/article/10.1007/s10462-024-10921-0)]. Sep 20, 2024.
-8. **Large Language Model for Medical Images: A Survey of Taxonomy, Systematic Review, and Future Trends**. Big Data Mining and Analytics 2025. [[paper](https://ieeexplore.ieee.org/document/10856853)]. Jan 28, 2025.
+### 1.3 Survey for LLMs&MLLMs for Medicine
+|  Title  |   Venue  |   Date   |   Project Page   |
+|:--------|:--------:|:--------:|:----------------:|
+| [Large language models in medicine](https://www.nature.com/articles/s41591-023-02448-8) | Nature Medicine | Jul 17, 2023 | - |
+| [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112) | arXiv | Nov 9, 2023 | [project page](https://github.com/AI-in-Health/MedLLMsPracticalGuide) |
+| [A survey of large language models for healthcare: from data, technology, and applications to accountability and ethics](https://arxiv.org/abs/2310.05694) | arXiv | Oct 9, 2023 | [project page](https://github.com/KaiHe-better/LLM-for-Healthcare) |
+| [A comprehensive survey of large language models and multimodal large language models in medicine](https://arxiv.org/abs/2405.08603) | arXiv | May 14, 2024 | - |
+| [Large language models for medicine: a survey](https://arxiv.org/abs/2405.13055) | arXiv | May 20, 2024 | - |
+| [A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions](https://arxiv.org/abs/2406.03712) | arXiv | Jun 6, 2024 | - |
+| [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0) | Artificial Intelligence Review | Sep 20, 2024 | - |
+| [Large Language Model for Medical Images: A Survey of Taxonomy, Systematic Review, and Future Trends](https://ieeexplore.ieee.org/document/10856853) | Big Data Mining and Analytics | Jan 28, 2025 | - |
+
+
 
 ### 1.4 Survery for LLMs&MLLMs for Science
 
