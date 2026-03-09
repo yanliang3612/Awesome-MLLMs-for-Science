@@ -231,6 +231,33 @@ Recent advances in artificial intelligence (AI), especially large language model
 18. MatExpert: Decomposing Materials Discovery by Mimicking Human Experts
 19. Evaluating the performance and robustness of LLMs in materials science Q&A and property predictions
 
+
+### 4.1 LLMs-Related Work
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [Crystal Structure Generation with Autoregressive Large Language Modeling](https://arxiv.org/abs/2307.04340) | arXiv | Jul 10, 2023 | [code](https://github.com/lantunes/CrystaLLM) |
+| [Fine-Tuned Language Models Generate Stable Inorganic Materials as Text](https://arxiv.org/abs/2402.04379) | arXiv | Feb 6, 2024 | [code](https://github.com/facebookresearch/crystal-text-llm) |
+| [FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions](https://arxiv.org/abs/2410.23405) | arXiv | Oct 30, 2024 | [code](https://github.com/facebookresearch/flowmm) |
+| [Invariant Tokenization of Crystalline Materials for Language Model Enabled Generation](https://openreview.net/forum?id=18FGRNd0wZ) | NeurIPS 2024 | Sep 25, 2024 | [code](https://github.com/divelab/AIRS/tree/main/OpenMat/Mat2Seq) |
+| [LLMatDesign: Autonomous Materials Discovery with Large Language Models](https://arxiv.org/abs/2406.13163) | arXiv | Jun 19, 2024 | [code](https://github.com/Fung-Lab/LLMatDesign) |
+| [MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities](https://arxiv.org/abs/2310.10445) | arXiv | Oct 16, 2023 | - |
+| [Leveraging Large Language Models for Explaining Material Synthesis Mechanisms: The Foundation of Materials Discovery](https://arxiv.org/html/2407.08922v1) | NeurIPS 2024 AI4Mat Workshop | Jul 12, 2024 | [code](https://github.com/Dandelionym/llm_for_mechanisms) |
+| [Large language models for material property predictions: elastic constant tensor prediction and materials design](https://arxiv.org/abs/2411.12280) | arXiv | Nov 19, 2024 | [code](https://github.com/Grenzlinie/ElaTBot) |
+| [MaScQA: investigating materials science knowledge of large language models](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00188a) | Digital Discovery | Dec 20, 2023 | [code](https://github.com/M3RG-IITD/MaScQA) |
+| [Large-language models: The game-changers for materials science research](https://www.sciencedirect.com/science/article/pii/S2949747724000344) | Artificial Intelligence Chemistry | Aug 2024 | - |
+| [Material transformers: deep learning language models for generative materials design](https://ui.adsabs.harvard.edu/abs/2023MLS%26T...4a5001F/abstract) | Machine Learning: Science and Technology | Jan 5, 2023 | [code](https://github.com/usccolumbia/mtransformer) |
+| [LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation](https://arxiv.org/abs/2401.17244) | arXiv | Jan 30, 2024 | [code](https://github.com/chiang-yuan/llamp) |
+| [34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery](https://arxiv.org/abs/2505.03049) | arXiv | May 5, 2025 | [code](https://llmhackathon.github.io/projects/) |
+| [Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry](https://arxiv.org/abs/2411.15221) | arXiv | Nov 20, 2024 | [code](https://llmhackathon.github.io/projects/) |
+| [AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence](https://arxiv.org/abs/2407.10022) | arXiv | Jul 13, 2024 | [code](https://github.com/lamm-mit/AtomAgents) |
+| [From Tokens to Materials: Leveraging Language Models for Scientific Discovery](https://arxiv.org/abs/2410.16165) | arXiv | Oct 21, 2024 | [code](https://github.com/MasterAI-EAM/MatEmbedding) |
+| [Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning](https://arxiv.org/abs/2403.11996) | arXiv | Mar 18, 2024 | [code](https://github.com/lamm-mit/GraphReasoning) |
+| [MatExpert: Decomposing Materials Discovery by Mimicking Human Experts](https://arxiv.org/abs/2410.21317) | arXiv | Oct 26, 2024 | [code](https://github.com/BangLab-UdeM-Mila/MatExpert) |
+| [Evaluating the performance and robustness of LLMs in materials science Q&A and property predictions](https://arxiv.org/abs/2409.14572) | arXiv | Sep 22, 2024 | - |
+
+
+
+
 ### 4.2 MLLMs-Related Work
 
 1. Multi-modal conditional diffusion model using signed distance functions for metal-organic frameworks generation
