@@ -100,6 +100,23 @@ Recent advances in artificial intelligence (AI), especially large language model
 10. **Ddi-gpt: Explainable prediction of drug-drug interactions using large language models enhanced with knowledge graphs**. BioRxiv 2024. [[paper](https://www.biorxiv.org/content/10.1101/2024.12.06.627266v1)] [[code](https://github.com/Mew233/ddigpt)]. Dec 09, 2024.
 11. **Cotel-d3x: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction**. Expert Systems with Applications 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005755)]. May 10, 2025.
 
+
+### 2.1 Molecular Representation Learning, Property and Interaction Prediction
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [Exploring bitter and sweet: the application of large language models in molecular taste prediction](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00681) | Journal of Chemical Information and Modeling | May 7, 2024 | - |
+| [ChemBERTa: Large-scale self-supervised learning for molecular property prediction](https://arxiv.org/abs/2010.09885) | arXiv | Oct 19, 2020 | - |
+| [Molecular representation learning with language models and domain-relevant auxiliary tasks](https://arxiv.org/abs/2011.13230) | arXiv | Nov 26, 2020 | - |
+| [SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery](https://arxiv.org/abs/1911.04738) | arXiv | Nov 12, 2019 | - |
+| [Effective and explainable molecular property prediction by chain-of-thought enabled large language models and multi-modal molecular information fusion](https://pubs.acs.org/doi/10.1021/acs.jcim.5c00577) | Journal of Chemical Information and Modeling | May 20, 2025 | [code](https://github.com/jinchang1223/LLM-MPP) |
+| [Pharmabench: Enhancing admet benchmarks with large language models](https://www.nature.com/articles/s41597-024-03793-0) | Nature Scientific Data | Sep 10, 2024 | [code](https://github.com/mindrank-ai/PharmaBench) |
+| [Drugrealign: a multisource prompt framework for drug repurposing based on large language models](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02028-3) | BMC Biology | Oct 8, 2024 | [code](https://github.com/kkkayle/DrugReAlign) |
+| [Dti-lm: language model powered drug–target interaction prediction](https://academic.oup.com/bioinformatics/article/40/9/btae533/7747660) | Bioinformatics | Sep 2, 2024 | [code](https://github.com/compbiolabucf/DTI-LM/) |
+| [Drugagent: Multi-agent large language model-based reasoning for drug-target interaction prediction](https://arxiv.org/abs/2408.13378) | arXiv | Aug 23, 2024 | - |
+| [Ddi-gpt: Explainable prediction of drug-drug interactions using large language models enhanced with knowledge graphs](https://www.biorxiv.org/content/10.1101/2024.12.06.627266v1) | bioRxiv | Dec 09, 2024 | [code](https://github.com/Mew233/ddigpt) |
+| [Cotel-d3x: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction](https://www.sciencedirect.com/science/article/pii/S0957417425005755) | Expert Systems with Applications | May 10, 2025 | - |
+
+
 ### 2.2 De Novo Molecular Generation with LLMs
 
 1. **MolGPT: Molecular generation using a transformer-decoder model**. Journal of Chemical Information and Modeling 2021. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600)] [[code](https://github.com/devalab/molgpt)]. Oct 25, 2021.
