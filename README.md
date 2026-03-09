@@ -209,28 +209,6 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 ## 4. MLLMs for Material
 
-### 4.1 LLMs-Related Work
-
-1. Crystal Structure Generation with Autoregressive Large Language Modeling.
-2. Fine-Tuned Language Models Generate Stable Inorganic Materials as Text.
-3. FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions.
-4. Invariant Tokenization of Crystalline Materials for Language Model Enabled Generation.
-5. LLMatDesign: Autonomous Materials Discovery with Large Language Models
-6. MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities
-7. Leveraging Large Language Models for Explaining Material Synthesis Mechanisms: The Foundation of Materials Discovery
-8. Large language models for material property predictions: elastic constant tensor prediction and materials design
-9. MaScQA: investigating materials science knowledge of large language models
-10. Large-language models: The game-changers for materials science research
-11. Material transformers: deep learning language models for generative materials design
-12. LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation
-13. 34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery
-14. Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry
-15. AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence
-16. From Tokens to Materials: Leveraging Language Models for Scientific Discovery
-17. Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning
-18. MatExpert: Decomposing Materials Discovery by Mimicking Human Experts
-19. Evaluating the performance and robustness of LLMs in materials science Q&A and property predictions
-
 
 ### 4.1 LLMs-Related Work
 |  Title  |   Venue  |   Date   |   Code   |
