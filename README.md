@@ -48,6 +48,16 @@ Recent advances in artificial intelligence (AI), especially large language model
 5. **Large Language Models: A Survey**. Arxiv 2024. [[paper](https://arxiv.org/abs/2402.06196)]. Feb 9, 2024.
 6. **A survey on large language models: Applications, challenges, limitations, and practical usage**. TechRxiv 2025. [[paper](10.36227/techrxiv.23589741.v8)] [[project page](https://github.com/anas-zafar/LLM-Survey)]. Jan 14, 2025.
 
+### 1.1 Survey for General LLMs
+|  Title  |   Venue  |   Date   |   Project Page   |
+|:--------|:--------:|:--------:|:----------------:|
+| [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) | arXiv | Mar 31, 2023 | [project page](https://github.com/RUCAIBox/LLMSurvey) |
+| [A survey on evaluation of large language models](https://arxiv.org/abs/2307.03109) | ACM Transactions on Intelligent Systems and Technology | Jul 6, 2023 | [project page](https://github.com/MLGroupJLU/LLM-eval-survey) |
+| [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435) | arXiv | Jul 12, 2023 | [project page](https://github.com/humza909/LLM_Survey) |
+| [Efficient large language models: A survey](https://arxiv.org/abs/2312.03863) | TMLR | Dec 6, 2023 | [project page](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) |
+| [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196) | arXiv | Feb 9, 2024 | - |
+| [A survey on large language models: Applications, challenges, limitations, and practical usage](https://doi.org/10.36227/techrxiv.23589741.v8) | TechRxiv | Jan 14, 2025 | [project page](https://github.com/anas-zafar/LLM-Survey) |
+
 ### 1.2 Survery for General MLLMs
 
 1. **A Survey on Multimodal Large Language Models**. National Science Review 2024. [[paper](https://arxiv.org/abs/2306.13549)] [[project page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]. Jun 23, 2023.
@@ -110,7 +120,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 7. **Drugassist: A large language model for molecule optimization**. Briefings in Bioinformatics 2024. [[paper](https://academic.oup.com/bib/article/26/1/bbae693/7942355)] [[code](https://github.com/blazerye/DrugAssist)]. Dec 28, 2023.
 
 ### 2.4 Chemical Reaction Prediction and Synthesis Planning
-
+ 
 1. **Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models**. ACS Central Science 2017. [[paper](https://pubs.acs.org/doi/10.1021/acscentsci.7b00303)] [[code](https://github.com/pandegroup/reaction_prediction_seq2seq)]. Sep 5, 2017.
 2. **Mapping the space of chemical reactions using attention-based neural networks**. Nature Machine Intelligence 2021. [[paper](https://www.nature.com/articles/s42256-020-00284-w)] [[code](https://rxn4chemistry.github.io/rxnfp/)]. Jan 28, 2021.
 3. **State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis**. Nature Communications 2020. [[paper](https://www.nature.com/articles/s41467-020-19266-y)] [[code](https://github.com/bigchem/synthesis)]. Nov 04, 2020.
