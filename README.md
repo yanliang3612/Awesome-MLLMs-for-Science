@@ -104,16 +104,6 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 ### 2.2 De Novo Molecular Generation with LLMs
-
-1. **MolGPT: Molecular generation using a transformer-decoder model**. Journal of Chemical Information and Modeling 2021. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600)] [[code](https://github.com/devalab/molgpt)]. Oct 25, 2021.
-2. **Chatmol: interactive molecular discovery with natural language**. Bioinformatics 2024. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600)] [[code](https://github.com/Ellenzzn/ChatMol)]. Sep 02, 2024.
-3. **Drugllm: Open large language model for few-shot molecule generation**. Arxiv 2024. [[paper](https://arxiv.org/abs/2405.06690)]. May 07, 2024.
-4. **CogMol: Target-specific and selective drug design for covid-19 using deep generative models**. NeurIPS 2020. [[paper](https://arxiv.org/abs/2004.01215)]. Jun 24, 2020.
-5. **X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis**. BioRxiv 2020. [[paper](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full)]. Jan 1, 2021.
-6. **Molecular representation learning with language models and domain-relevant auxiliary tasks**. Arxiv 2020. [[paper](https://arxiv.org/abs/2011.13230)] [[code](https://github.com/BenevolentAI/MolBERT)]. Nov 26, 2020.
-
-
-### 2.2 De Novo Molecular Generation with LLMs
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [MolGPT: Molecular generation using a transformer-decoder model](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) | Journal of Chemical Information and Modeling | Oct 25, 2021 | [code](https://github.com/devalab/molgpt) |
