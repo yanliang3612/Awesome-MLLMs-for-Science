@@ -135,6 +135,15 @@ Recent advances in artificial intelligence (AI), especially large language model
 4. **Bridging chemistry and artificial intelligence by a reaction description language**. Nature Machine Intelligence 2025. [[paper](https://www.nature.com/articles/s42256-025-01032-8)] [[code](https://github.com/jiachengxiong/ReactSeq)]. May 13, 2025.
 5. **Reactgpt: Understanding of chemical reactions via in-context tuning**. AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/31983)]. April 11, 2025.
 
+### 2.4 Chemical Reaction Prediction and Synthesis Planning
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models](https://pubs.acs.org/doi/10.1021/acscentsci.7b00303) | ACS Central Science | Sep 5, 2017 | [code](https://github.com/pandegroup/reaction_prediction_seq2seq) |
+| [Mapping the space of chemical reactions using attention-based neural networks](https://www.nature.com/articles/s42256-020-00284-w) | Nature Machine Intelligence | Jan 28, 2021 | [code](https://rxn4chemistry.github.io/rxnfp/) |
+| [State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis](https://www.nature.com/articles/s41467-020-19266-y) | Nature Communications | Nov 04, 2020 | [code](https://github.com/bigchem/synthesis) |
+| [Bridging chemistry and artificial intelligence by a reaction description language](https://www.nature.com/articles/s42256-025-01032-8) | Nature Machine Intelligence | May 13, 2025 | [code](https://github.com/jiachengxiong/ReactSeq) |
+| [Reactgpt: Understanding of chemical reactions via in-context tuning](https://ojs.aaai.org/index.php/AAAI/article/view/31983) | AAAI 2025 | Apr 11, 2025 | - |
+
 
 
 ### 2.5 Multi-Modal LLMs and Chemistry-Focused Agents
