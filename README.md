@@ -236,18 +236,6 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 
-### 4.2 MLLMs-Related Work
-
-1. Multi-modal conditional diffusion model using signed distance functions for metal-organic frameworks generation
-2. GenMS: Generative Hierarchical Materials Search
-3. Probing the limitations of multimodal language models for chemistry and materials research
-4. MatterChat: A Multi-Modal LLM for Material Science
-5. LLM-Fusion: A Novel Multimodal Fusion Model for Accelerated Material Discovery
-6. Multimodal Foundation Models for Material Property Prediction and Discovery
-7. Automating alloy design and discovery with physics-aware multimodal multiagent AI
-8. Multimodal Machine Learning for Materials Science: Discovery of Novel Li-Ion Solid Electrolytes
-9. TDCM25: A Multi-Modal Multi-Task Benchmark for Temperature-Dependent Crystalline Materials
-
 
 ### 4.2 MLLMs-Related Work
 | Title | Venue | Date | Code |
