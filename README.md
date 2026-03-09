@@ -86,20 +86,6 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 ## 2. MLLMs for Drug&Molecule
 
-### 2.1 Molecular Representation Learning, Property and Interaction Prediction
-
-1. **Exploring bitter and sweet: the application of large language models in molecular taste prediction**. Journal of Chemical Information and Modeling 2024. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00681)]. May 7, 2024.
-2. **ChemBERTa: Large-scale self-supervised learning for molecular property prediction**. Arxiv 2020. [[paper](https://arxiv.org/abs/2010.09885)]. Oct 19, 2020.
-3. **Molecular representation learning with language models and domain-relevant auxiliary tasks**. Arxiv 2020. [[paper](https://arxiv.org/abs/2011.13230)]. Nov 26, 2020.
-4. **SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery**. Arxiv 2019. [[paper](https://arxiv.org/abs/1911.04738)]. Nov 12, 2019.
-5. **Effective and explainable molecular property prediction by chain-of-thought enabled large language models and multi-modal molecular information fusion**. Journal of Chemical Information and Modeling 2025. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.5c00577)] [[code](https://github.com/jinchang1223/LLM-MPP)]. May 20, 2025.
-6. **Pharmabench: Enhancing admet benchmarks with large language models**. Nature Scientific Data 2024. [[paper](https://www.nature.com/articles/s41597-024-03793-0)] [[code](https://github.com/mindrank-ai/PharmaBench)]. Sep 10, 2024.
-7. **Drugrealign: a multisource prompt framework for drug repurposing based on large language models**. BMC Biology 2024. [[paper](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02028-3)] [[code](https://github.com/kkkayle/DrugReAlign)]. Oct 8, 2024.
-8. **Dti-lm: language model powered drug–target interaction prediction**. Bioinformatics 2024. [[paper](https://academic.oup.com/bioinformatics/article/40/9/btae533/7747660)] [[code](https://github.com/compbiolabucf/DTI-LM/)]. Sep 2, 2024.
-9. **Drugagent: Multi-agent large language model-based reasoning for drug-target interaction prediction**. Arxiv 2024. [[paper](https://arxiv.org/abs/2408.13378)]. Aug 23, 2024.
-10. **Ddi-gpt: Explainable prediction of drug-drug interactions using large language models enhanced with knowledge graphs**. BioRxiv 2024. [[paper](https://www.biorxiv.org/content/10.1101/2024.12.06.627266v1)] [[code](https://github.com/Mew233/ddigpt)]. Dec 09, 2024.
-11. **Cotel-d3x: A chain-of-thought enhanced large language model for drug–drug interaction triplet extraction**. Expert Systems with Applications 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005755)]. May 10, 2025.
-
 
 ### 2.1 Molecular Representation Learning, Property and Interaction Prediction
 |  Title  |   Venue  |   Date   |   Code   |
@@ -125,6 +111,18 @@ Recent advances in artificial intelligence (AI), especially large language model
 4. **CogMol: Target-specific and selective drug design for covid-19 using deep generative models**. NeurIPS 2020. [[paper](https://arxiv.org/abs/2004.01215)]. Jun 24, 2020.
 5. **X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis**. BioRxiv 2020. [[paper](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full)]. Jan 1, 2021.
 6. **Molecular representation learning with language models and domain-relevant auxiliary tasks**. Arxiv 2020. [[paper](https://arxiv.org/abs/2011.13230)] [[code](https://github.com/BenevolentAI/MolBERT)]. Nov 26, 2020.
+
+
+### 2.2 De Novo Molecular Generation with LLMs
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [MolGPT: Molecular generation using a transformer-decoder model](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) | Journal of Chemical Information and Modeling | Oct 25, 2021 | [code](https://github.com/devalab/molgpt) |
+| [Chatmol: interactive molecular discovery with natural language](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) | Bioinformatics | Sep 02, 2024 | [code](https://github.com/Ellenzzn/ChatMol) |
+| [Drugllm: Open large language model for few-shot molecule generation](https://arxiv.org/abs/2405.06690) | arXiv | May 07, 2024 | - |
+| [CogMol: Target-specific and selective drug design for covid-19 using deep generative models](https://arxiv.org/abs/2004.01215) | NeurIPS 2020 | Jun 24, 2020 | - |
+| [X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full) | bioRxiv | Jan 1, 2021 | - |
+| [Molecular representation learning with language models and domain-relevant auxiliary tasks](https://arxiv.org/abs/2011.13230) | arXiv | Nov 26, 2020 | [code](https://github.com/BenevolentAI/MolBERT) |
+
 
 ### 2.3 Controlled Molecule Optimization and Editing
 
