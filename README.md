@@ -78,10 +78,11 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 
-### 1.4 Survery for LLMs&MLLMs for Science
-
-1. **Scientific Large Language Models: A Survey on Biological & Chemical Domains**. Arxiv 2024. [[paper](https://arxiv.org/abs/2401.14656)] [[project page](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)]. Jan 26, 2024.
-2. **A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**. EMNLP 2024. [[paper](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]. July 16, 2024.
+### 1.4 Survey for LLMs&MLLMs for Science
+|  Title  |   Venue  |   Date   |   Project Page   |
+|:--------|:--------:|:--------:|:----------------:|
+| [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) | arXiv | Jan 26, 2024 | [project page](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
+| [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/abs/2406.10833) | EMNLP 2024 | Jul 16, 2024 | [project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) |
 
 ## 2. MLLMs for Drug&Molecule
 
