@@ -126,15 +126,6 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [Drugassist: A large language model for molecule optimization](https://academic.oup.com/bib/article/26/1/bbae693/7942355) | Briefings in Bioinformatics | Dec 28, 2023 | [code](https://github.com/blazerye/DrugAssist) |
 
 
-
-### 2.4 Chemical Reaction Prediction and Synthesis Planning
- 
-1. **Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models**. ACS Central Science 2017. [[paper](https://pubs.acs.org/doi/10.1021/acscentsci.7b00303)] [[code](https://github.com/pandegroup/reaction_prediction_seq2seq)]. Sep 5, 2017.
-2. **Mapping the space of chemical reactions using attention-based neural networks**. Nature Machine Intelligence 2021. [[paper](https://www.nature.com/articles/s42256-020-00284-w)] [[code](https://rxn4chemistry.github.io/rxnfp/)]. Jan 28, 2021.
-3. **State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis**. Nature Communications 2020. [[paper](https://www.nature.com/articles/s41467-020-19266-y)] [[code](https://github.com/bigchem/synthesis)]. Nov 04, 2020.
-4. **Bridging chemistry and artificial intelligence by a reaction description language**. Nature Machine Intelligence 2025. [[paper](https://www.nature.com/articles/s42256-025-01032-8)] [[code](https://github.com/jiachengxiong/ReactSeq)]. May 13, 2025.
-5. **Reactgpt: Understanding of chemical reactions via in-context tuning**. AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/31983)]. April 11, 2025.
-
 ### 2.4 Chemical Reaction Prediction and Synthesis Planning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -147,23 +138,22 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 ### 2.5 Multi-Modal LLMs and Chemistry-Focused Agents
-
-1. **ChemCrow: Augmenting large-language models with chemistry tools**. Nature Machine Intelligence 2024. [[paper](https://www.nature.com/articles/s42256-024-00832-8)] [[code](https://github.com/ur-whitelab/chemcrow-runs)]. May 08, 2024.
-2. **Molx: Enhancing large language models for molecular learning with a multi-modal extension**. Arxiv 2024. [[paper](https://arxiv.org/abs/2406.06777)] [[code](https://github.com/ur-whitelab/chemcrow-runs)]. June 10, 2024.
-3. **Git-mol: A multi-modal large language model for molecular science with graph, image, and text**. Computers in Biology and Medicine 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0010482524001574)] [[code](https://github.com/AI-HPC-Research-Team/GIT-Mol)]. Feb 6, 2024.
-4. **Token-mol 1.0: tokenized drug design with large language models**. Nature Communications 2025. [[paper](https://www.nature.com/articles/s41467-025-59628-y)] [[code](https://github.com/jkwang93/Token-Mol)]. May 13, 2024.
-5. **Uni-mol: A universal 3d molecular representation learning framework**. ICLR 2023. [[paper](https://openreview.net/forum?id=6K2RM6wVqKu)] [[code](https://github.com/deepmodeling/Uni-Mol)]. Feb 27, 2023.
-6. **BioGPT: Generative pre-trained transformer for biomedical text generation and mining**. Briefings in Bioinformatics 2022. [[paper](https://academic.oup.com/bib/article/23/6/bbac409/6713511)] [[code](https://github.com/microsoft/BioGPT)]. Feb 27, 2023.
-7. **Multi-modal representation learning for molecular property prediction: sequence, graph, geometry**. Arxiv 2024. [[paper](https://arxiv.org/abs/2401.03369)] [[code](https://github.com/Vencent-Won/SGGRL)]. Jan 9, 2024.
-8. **Instructmol: Multi-modal integration for building a versatile and reliable molecular assistant in drug discovery**. COLING 2025. [[paper](https://aclanthology.org/2025.coling-main.25/)] [[code](https://github.com/IDEA-XL/InstructMol)]. Dec 19, 2024.
-9. **Incorporating molecular knowledge in large language models via multimodal modeling**.  IEEE Transactions on Computational Social Systems 2025. [[paper](https://aclanthology.org/2025.coling-main.25/)] [[code](https://github.com/IDEA-XL/InstructMol)]. Jan 13, 2025.
-10. **MoleculeScribe: describing and designing molecules with multi-modal large language models**. TBA
-11. **Text-augmented multimodal llms for chemical reaction condition recommendation**. Arxiv 2024. [[paper](https://arxiv.org/abs/2407.15141)] [[code](https://github.com/IDEA-XL/InstructMol)]. July 21, 2024.
-12. **ChemToolAgent: The impact of tools on language agents for chemistry problem solving**. Arxiv 2024. [[paper](https://arxiv.org/abs/2411.07228)] [[code](https://github.com/OSU-NLP-Group/ChemToolAgent)]. Nov 11, 2024.
-13. **Chemagent: Self-updating memories in large language models improves chemical reasoning**. ICLR 2025. [[paper](https://openreview.net/forum?id=kuhIqeVg0e)] [[code](https://github.com/gersteinlab/ChemAgent)]. Mar 12, 2025.
-14. **Chemthinker: Thinking like a chemist with multi-agent llms for deep molecular insights**. Arxiv 2025. [[paper](https://openreview.net/forum?id=zlAUnwhE2v)]. Sep 28, 2024.
-
-
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [ChemCrow: Augmenting large-language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8) | Nature Machine Intelligence | May 08, 2024 | [code](https://github.com/ur-whitelab/chemcrow-runs) |
+| [Molx: Enhancing large language models for molecular learning with a multi-modal extension](https://arxiv.org/abs/2406.06777) | arXiv | Jun 10, 2024 | [code](https://github.com/ur-whitelab/chemcrow-runs) |
+| [Git-mol: A multi-modal large language model for molecular science with graph, image, and text](https://www.sciencedirect.com/science/article/pii/S0010482524001574) | Computers in Biology and Medicine | Feb 6, 2024 | [code](https://github.com/AI-HPC-Research-Team/GIT-Mol) |
+| [Token-mol 1.0: tokenized drug design with large language models](https://www.nature.com/articles/s41467-025-59628-y) | Nature Communications | May 13, 2024 | [code](https://github.com/jkwang93/Token-Mol) |
+| [Uni-mol: A universal 3d molecular representation learning framework](https://openreview.net/forum?id=6K2RM6wVqKu) | ICLR 2023 | Feb 27, 2023 | [code](https://github.com/deepmodeling/Uni-Mol) |
+| [BioGPT: Generative pre-trained transformer for biomedical text generation and mining](https://academic.oup.com/bib/article/23/6/bbac409/6713511) | Briefings in Bioinformatics | Feb 27, 2023 | [code](https://github.com/microsoft/BioGPT) |
+| [Multi-modal representation learning for molecular property prediction: sequence, graph, geometry](https://arxiv.org/abs/2401.03369) | arXiv | Jan 9, 2024 | [code](https://github.com/Vencent-Won/SGGRL) |
+| [Instructmol: Multi-modal integration for building a versatile and reliable molecular assistant in drug discovery](https://aclanthology.org/2025.coling-main.25/) | COLING 2025 | Dec 19, 2024 | [code](https://github.com/IDEA-XL/InstructMol) |
+| [Incorporating molecular knowledge in large language models via multimodal modeling](https://aclanthology.org/2025.coling-main.25/) | IEEE Transactions on Computational Social Systems | Jan 13, 2025 | [code](https://github.com/IDEA-XL/InstructMol) |
+| MoleculeScribe: describing and designing molecules with multi-modal large language models | TBA | TBA | - |
+| [Text-augmented multimodal llms for chemical reaction condition recommendation](https://arxiv.org/abs/2407.15141) | arXiv | Jul 21, 2024 | [code](https://github.com/IDEA-XL/InstructMol) |
+| [ChemToolAgent: The impact of tools on language agents for chemistry problem solving](https://arxiv.org/abs/2411.07228) | arXiv | Nov 11, 2024 | [code](https://github.com/OSU-NLP-Group/ChemToolAgent) |
+| [Chemagent: Self-updating memories in large language models improves chemical reasoning](https://openreview.net/forum?id=kuhIqeVg0e) | ICLR 2025 | Mar 12, 2025 | [code](https://github.com/gersteinlab/ChemAgent) |
+| [Chemthinker: Thinking like a chemist with multi-agent llms for deep molecular insights](https://openreview.net/forum?id=zlAUnwhE2v) | arXiv | Sep 28, 2024 | - |
 
 
 
@@ -189,6 +179,9 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations.](https://aclanthology.org/2023.emnlp-main.70.pdf) | EMNLP | Dec 2023 | [code](https://github.com/QizhiPei/BioT5) |
 | [BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning.](https://aclanthology.org/2024.findings-acl.71/) | Findings of ACL | Aug 2024 | [code](https://github.com/QizhiPei/BioT5) |
 | [Galactica: A Large Language Model for Science.](https://arxiv.org/abs/2211.09085) | arXiv | Nov 16, 2022 | [code](https://github.com/paperswithcode/galai) |
+
+
+
 
 #### 3.2.2 Protein Structure-Sequence-Language Integration
 |  Title  |   Venue  |   Date   |   Code   |
