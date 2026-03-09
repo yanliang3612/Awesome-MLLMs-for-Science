@@ -248,7 +248,24 @@ Recent advances in artificial intelligence (AI), especially large language model
 8. Multimodal Machine Learning for Materials Science: Discovery of Novel Li-Ion Solid Electrolytes
 9. TDCM25: A Multi-Modal Multi-Task Benchmark for Temperature-Dependent Crystalline Materials
 
----
+
+### 4.2 MLLMs-Related Work
+| Title | Venue | Date | Code |
+|:--------|:--------:|:--------:|:--------:|
+| [Multi-modal conditional diffusion model using signed distance functions for metal-organic frameworks generation](https://www.nature.com/articles/s41467-024-55390-9) | Nature Communications | Jul 5, 2024 | [code](https://github.com/parkjunkil/MOFFUSION) |
+| [GenMS: Generative Hierarchical Materials Search](https://arxiv.org/abs/2409.06762) | NeurIPS 2024 | Sep 10, 2024 | - |
+| [Probing the limitations of multimodal language models for chemistry and materials research](https://www.nature.com/articles/s43588-025-00836-3) | Nature Computational Science | Nov 25, 2024 | [code](https://github.com/lamalab-org/mac-bench) |
+| [MatterChat: A Multi-Modal LLM for Material Science](https://arxiv.org/abs/2502.13107) | arXiv | Feb 18, 2025 | - |
+| [LLM-Fusion: A Novel Multimodal Fusion Model for Accelerated Material Discovery](https://arxiv.org/abs/2503.01022) | AAAI 2025 Workshop (AI2ASE) | Mar 2, 2025 | - |
+| [Multimodal Foundation Models for Material Property Prediction and Discovery](https://arxiv.org/abs/2312.00111) | Newton | Nov 30, 2023 | [code](https://github.com/vmoro1/multimat) |
+| [Automating alloy design and discovery with physics-aware multimodal multiagent AI](https://www.pnas.org/doi/10.1073/pnas.2414074122) | PNAS | Jan 24, 2025 | [code](https://github.com/lamm-mit/AtomAgents) |
+| [Multimodal Machine Learning for Materials Science: Discovery of Novel Li-Ion Solid Electrolytes](https://pubs.acs.org/doi/10.1021/acs.chemmater.4c02257) | Chemistry of Materials | Nov 29, 2024 | [code](https://github.com/shenggong1996/COSNet) |
+| [TDCM25: A Multi-Modal Multi-Task Benchmark for Temperature-Dependent Crystalline Materials](https://openreview.net/forum?id=bNB5SQTqKL) | AI4Mat-ICLR 2025 | Mar 3, 2025 | [code](https://github.com/KurbanIntelligenceLab/TDCM25) |
+
+
+
+
+
 
 ## 5. MLLMs for Gene
 
