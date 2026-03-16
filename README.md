@@ -160,23 +160,41 @@ Recent advances in artificial intelligence (AI), especially large language model
 ## 3. MLLMs for Protein
 
 ### 3.1 LLMs related work
-
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [UniRep](https://www.nature.com/articles/s41592-019-0598-1) | Nature Methods | Oct 21, 2019 | [code](https://github.com/churchlab/UniRep) |
+| [ProtTrans](https://arxiv.org/abs/2007.06225) | IEEE TPAMI | Jul 13, 2021 | [code](https://github.com/agemagician/ProtTrans) |
+| [ESM](https://www.science.org/doi/10.1126/science.ade2574) | Science | Jan, 2023 | [code](https://github.com/facebookresearch/esm) |
+| [MSA Transformer](https://www.biorxiv.org/content/10.1101/2021.02.12.430858v1) | bioRxiv | Feb 14, 2021 | [code](https://github.com/facebookresearch/esm/blob/main/esm/model/msa_transformer.py) |
+| [TCR-BERT](https://www.biorxiv.org/content/10.1101/2021.11.18.469186v1) | bioRxiv | Nov 18, 2021 | [code](https://github.com/wukevin/tcr-bert) |
+| [ProteinBERT](https://pubmed.ncbi.nlm.nih.gov/35020807/) | Bioinformatics | Apr 12, 2022 | [code](https://github.com/nadavbra/protein_bert) |
+| [AlphaFold2](https://www.nature.com/articles/s41586-021-03819-2) | Nature | Jul 15, 2021 | [code](https://github.com/deepmind/alphafold) |
+| [ESMFold](https://www.science.org/doi/10.1126/science.ade2574) | Science | Mar, 2023 | [code](https://github.com/facebookresearch/esm) |
+| [ESM-IF1](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1) | bioRxiv | Apr 10, 2022 | [code](https://github.com/facebookresearch/esm) |
+| [GearNet](https://arxiv.org/abs/2203.06125) | ICLR | Mar 11, 2022 | [code](https://github.com/DeepGraphLearning/GearNet) |
+| [SaProt](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v1) | biRxiv | Oct 01, 2023 | [code](https://github.com/westlake-repl/SaProt) |
+| [OntoProtein](https://arxiv.org/abs/2201.11147) | ICLR | Jan 23 2022 | [code](https://github.com/zjunlp/OntoProtein) |
+| [ProGen](https://www.nature.com/articles/s41587-022-01618-2) |  Nature Biotechnology | Jan 26, 2023 | [code](https://github.com/salesforce/progen) |
+| [ProtGPT2](https://doi.org/10.1038/s41467-022-32007-7) | Nature Communications | Jul 27, 2022 | [code](https://github.com/nferruz/ProtGPT2) |
+| [ProGen2](https://arxiv.org/abs/2206.13517) | arXiv | Jun 27, 2022 | [code](https://github.com/salesforce/progen) |
+| [IgLM](https://pubmed.ncbi.nlm.nih.gov/37909045/) | Cell | Nov 15, 2023 | [code](https://github.com/Graylab/IgLM) |
+| [PALM-H3: Protein Language Model for Antibody Design](https://www.nature.com/articles/s41467-024-50903-y) | Nature Communications | Aug 10, 2024 | [code](https://github.com/nyuolab/PALM-H3) |
 ### 3.2 MLLMs related work
 #### 3.2.1 Protein Sequence-Language Integration
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [A Text-guided Protein Design Dramework.](https://www.nature.com/articles/s42256-025-01011-z) | Nature Machine Intelligence | Mar 27, 2025 | [code](https://github.com/chao1224/ProteinDT) |
-| [ProtT3: Protein-to-Text Generation for Text-based Protein Understanding.](https://aclanthology.org/2024.acl-long.324/) | ACL | May 21, 2024 | [code](https://github.com/acharkq/ProtT3) |
-| [ProtCLIP: Function-Informed Protein Multi-Modal Learning.](https://ojs.aaai.org/index.php/AAAI/article/view/34456/36611) | AAAI | Dec 28, 2024 | [code](https://github.com/diaoshaoyou/ProtCLIP) |
-| [OntoProtein: Protein Pretraining With Gene Ontology Embedding.](https://arxiv.org/abs/2201.11147) | ICLR | Jan 23, 2022 | [code](https://github.com/zjunlp/OntoProtein) |
-| [BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine.](https://arxiv.org/abs/2308.09442) | arXiv | Aug 18, 2023 | - |
-| [ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training.](https://arxiv.org/abs/2403.07920) | arXiv | Feb 28, 2024 | [code](https://github.com/ProtLLM/ProtLLM) |
-| [ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing.](https://arxiv.org/abs/2402.16445) | arXiv | Feb 26, 2024 | [code](https://github.com/PKU-YuanGroup/ProLLaMA) |
-| [InstructProtein: Aligning Human and Protein Language via Knowledge Instruction.](https://aclanthology.org/2024.acl-long.62/) | ACL | Aug, 2024 | [code](https://github.com/HICAI-ZJU/InstructProtein) |
-| [ESM-AA: Multi-scale Protein Language Model for Unified Molecular Modeling.](https://arxiv.org/abs/2403.12995) | ICML | Mar 20, 2024 | [code](https://github.com/zhengkangjie/ESM-AA) |
-| [BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations.](https://aclanthology.org/2023.emnlp-main.70.pdf) | EMNLP | Dec 2023 | [code](https://github.com/QizhiPei/BioT5) |
-| [BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning.](https://aclanthology.org/2024.findings-acl.71/) | Findings of ACL | Aug 2024 | [code](https://github.com/QizhiPei/BioT5) |
-| [Galactica: A Large Language Model for Science.](https://arxiv.org/abs/2211.09085) | arXiv | Nov 16, 2022 | [code](https://github.com/paperswithcode/galai) |
+| [ProteinDT](https://www.nature.com/articles/s42256-025-01011-z) | Nature Machine Intelligence | Mar 27, 2025 | [code](https://github.com/chao1224/ProteinDT) |
+| [ProtT3](https://aclanthology.org/2024.acl-long.324/) | ACL | May 21, 2024 | [code](https://github.com/acharkq/ProtT3) |
+| [ProtCLIP](https://ojs.aaai.org/index.php/AAAI/article/view/34456/36611) | AAAI | Dec 28, 2024 | [code](https://github.com/diaoshaoyou/ProtCLIP) |
+| [OntoProtein](https://arxiv.org/abs/2201.11147) | ICLR | Jan 23, 2022 | [code](https://github.com/zjunlp/OntoProtein) |
+| [BioMedGPT](https://arxiv.org/abs/2308.09442) | arXiv | Aug 18, 2023 | - |
+| [ProtLLM](https://arxiv.org/abs/2403.07920) | arXiv | Feb 28, 2024 | [code](https://github.com/ProtLLM/ProtLLM) |
+| [ProLLaMA](https://arxiv.org/abs/2402.16445) | arXiv | Feb 26, 2024 | [code](https://github.com/PKU-YuanGroup/ProLLaMA) |
+| [InstructProtein](https://aclanthology.org/2024.acl-long.62/) | ACL | Aug, 2024 | [code](https://github.com/HICAI-ZJU/InstructProtein) |
+| [ESM-AA](https://arxiv.org/abs/2403.12995) | ICML | Mar 20, 2024 | [code](https://github.com/zhengkangjie/ESM-AA) |
+| [BioT5](https://aclanthology.org/2023.emnlp-main.70.pdf) | EMNLP | Dec, 2023 | [code](https://github.com/QizhiPei/BioT5) |
+| [BioT5+](https://aclanthology.org/2024.findings-acl.71/) | Findings of ACL | Aug, 2024 | [code](https://github.com/QizhiPei/BioT5) |
+| [Galactica](https://arxiv.org/abs/2211.09085) | arXiv | Nov 16, 2022 | [code](https://github.com/TencentAILabHealthcare/PALM) |
 
 
 
@@ -184,25 +202,25 @@ Recent advances in artificial intelligence (AI), especially large language model
 #### 3.2.2 Protein Structure-Sequence-Language Integration
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [Simulating 500 Million Years of Evolution with a Language Model.](https://www.science.org/doi/10.1126/science.ads0018) | Science | Jan 16, 2025 | - |
-| [Adapting protein language models for structure-conditioned design.](https://www.biorxiv.org/content/10.1101/2024.08.03.606485v1) | bioRXiv | Aug 3, 2024 | [code](https://github.com/Profluent-AI/proseLM-public) |
-| [SaProt: Protein Language Modeling with Structure-Aware Vocabulary](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v3) | bioRXiv | Oct 1, 2023 | [code](https://github.com/westlake-repl/SaProt) |
-| [FoldToken: Learning Protein Language via Vector Quantization and Beyond.](https://arxiv.org/abs/2403.09673) | arXiv | Feb 4, 2024 | [code](https://github.com/A4Bio/FoldToken_open) |
-| [Decoding the Molecular Language of Proteins with Evola.](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1) | biRXiv | Jan 5, 2025 | - |
-| [DPLM-2: A Multimodal Diffusion Protein Language Model.](https://arxiv.org/abs/2410.13782) | arXiv | Oct 17, 2024 | [code](https://github.com/bytedance/dplm) |
-| [ProTokens: A Machine-Learned Language for Compact and Informative Encoding of Protein 3D Structures.](https://www.biorxiv.org/content/10.1101/2023.11.27.568722v2) | bioRXiv | Nov 27, 2023 | - |
-| [ProSST: Protein Language Modeling with Quantized Structure and Disentangled Attention.](https://www.biorxiv.org/content/10.1101/2024.04.15.589672v2) | bioRXiv | Apr 15, 2024 | [code](https://github.com/openmedlab/ProSST) |
-| [ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding.](https://arxiv.org/abs/2408.11363) | arXiv | Aug 21, 2024 | [code](https://github.com/OviaLabs/ProteinGPT) |
-| [ProtChatGPT: Towards Understanding Proteins with Large Language Models.](https://arxiv.org/abs/2402.09649) | arXiv | Feb 15, 2024 | - |
-| [STELLA: Towards Protein Function Prediction with Multimodal LLMs Integrating Sequence-Structure Representations.](https://arxiv.org/abs/2506.03800) | arXiv | Jun 4, 2025 | - |
-| [Advancing biomolecular understanding and design following human instructions.](https://arxiv.org/abs/2410.07919) | arXiv | Oct 10, 2024 | [code](https://github.com/HICAI-ZJU/InstructBioMol) |
+| [ESM3](https://www.science.org/doi/10.1126/science.ads0018) | Science | Jan 16, 2025 | - |
+| [prose-LM](https://www.biorxiv.org/content/10.1101/2024.08.03.606485v1) | bioRXiv | Aug 3, 2024 | [code](https://github.com/Profluent-AI/proseLM-public) |
+| [SaProt](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v3) | bioRXiv | Oct 1, 2023 | [code](https://github.com/westlake-repl/SaProt) |
+| [FoldToken](https://arxiv.org/abs/2403.09673) | arXiv | Feb 4, 2024 | [code](https://github.com/A4Bio/FoldToken_open) |
+| [Evola.](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1) | biRXiv | Jan 5, 2025 | - |
+| [DPLM-2](https://arxiv.org/abs/2410.13782) | arXiv | Oct 17, 2024 | [code](https://github.com/bytedance/dplm) |
+| [ProTokens](https://www.biorxiv.org/content/10.1101/2023.11.27.568722v2) | bioRXiv | Nov 27, 2023 | - |
+| [ProSST](https://www.biorxiv.org/content/10.1101/2024.04.15.589672v2) | bioRXiv | Apr 15, 2024 | [code](https://github.com/openmedlab/ProSST) |
+| [ProteinGPT](https://arxiv.org/abs/2408.11363) | arXiv | Aug 21, 2024 | [code](https://github.com/OviaLabs/ProteinGPT) |
+| [ProtChatGPT](https://arxiv.org/abs/2402.09649) | arXiv | Feb 15, 2024 | - |
+| [STELLA](https://arxiv.org/abs/2506.03800) | arXiv | Jun 4, 2025 | - |
+| [InstructBioMol](https://arxiv.org/abs/2410.07919) | arXiv | Oct 10, 2024 | [code](https://github.com/HICAI-ZJU/InstructBioMol) |
 #### 3.2.3 Protein Interactions and Specialized Application
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs.](https://arxiv.org/abs/2310.03320) | arXiv | Oct 5, 2023 | [code](https://github.com/RyanWangZf/BioBridge) |
-| [MolBind: Multimodal Alignment of Language, Molecules, and Proteins.](https://arxiv.org/abs/2403.08167) | ariXiv | Mar 13, 2024 | [code](https://github.com/amelie-iska/MolBind) |
-| [Large language and protein assistant for protein-protein interactions prediction.](https://aclanthology.org/2025.acl-long.554.pdf) | ACL | 2025 | [code](https://github.com/HHW-zhou/LLAPA) |
-| [Multilingual translation for zero-shot biomedical classification using BioTranslato.](https://www.nature.com/articles/s41467-023-36476-2) | Nature Communications | Feb 10, 2023 | [code](https://github.com/HanwenXuTHU/BioTranslatorProject) |
+| [BioBridge](https://arxiv.org/abs/2310.03320) | arXiv | Oct 5, 2023 | [code](https://github.com/RyanWangZf/BioBridge) |
+| [MolBind](https://arxiv.org/abs/2403.08167) | ariXiv | Mar 13, 2024 | [code](https://github.com/amelie-iska/MolBind) |
+| [LLAPA](https://aclanthology.org/2025.acl-long.554.pdf) | ACL | 2025 | [code](https://github.com/HHW-zhou/LLAPA) |
+| [BioTranslator](https://www.nature.com/articles/s41467-023-36476-2) | Nature Communications | Feb 10, 2023 | [code](https://github.com/HanwenXuTHU/BioTranslatorProject) |
 ---
 
 ## 4. MLLMs for Material
@@ -256,6 +274,19 @@ Recent advances in artificial intelligence (AI), especially large language model
 ## 5. MLLMs for Gene
 
 ### 5.1 LLMs-Related Work
+|  Title  |   Category  |   Venue  |   Date   |   Code   |
+|:--------|:----------:|:--------:|:--------:|:--------:|
+|[GexMolGen](https://www.biorxiv.org/content/10.1101/2023.11.11.566725v4) | Gene Expression Analysis | Briefings in Bioinformatics | Nov 11, 2023 | [code](https://github.com/Bunnybeibei/GexMolGen)|
+|[Genegpt](https://pubmed.ncbi.nlm.nih.gov/38341654/)|Gene QA|Bioinformatics| Feb 1, 2024| [code](https://github.com/ncbi/GeneGPT)|
+|[GeneT](https://www.medrxiv.org/content/10.1101/2024.07.18.24310666v1)| Variant Discovery |medRxiv| Jul 18, 2924 | - |
+|[A Large Language Model Framework for Literature-based Disease–Gene Association Prediction](https://pubmed.ncbi.nlm.nih.gov/39998433/) | Gene Prediction | Briefings in Bioinformatics | Nov 22, 2024 | – |
+| [Cancer Gene Identification through Integrating Causal Prompting LLM with Omics Data-Driven Causal Inference](https://academic.oup.com/bib/article/26/2/bbaf113/8071687) | Cancer Gene Discovery | Briefings in Bioinformatics | Mar 12, 2025 | – |
+| [Qwendy: Gene Regulatory Network Inference Enhanced by Large Language Model and Transformer](https://www.biorxiv.org/content/10.1101/2025.02.22.639640v1) | Regulatory Inference | bioRxiv | Feb 22, 2025 | – |
+| [ProGen](https://arxiv.org/abs/2004.03497) | Gene Generation | bioRxiv | Mar 8 2020 | [code](https://github.com/salesforce/progen) |
+| [FGeneBERT](https://arxiv.org/abs/2402.16901) | Gene Function Prediction | arXiv | Feb 24 2024 | – |
+| [Integrating Unsupervised Language Model with Triplet Neural Networks for Protein Gene Ontology Prediction](https://pubmed.ncbi.nlm.nih.gov/36548439/) | Protein Function Prediction | Bioinformatics | Dec 22, 2022 | – |
+| [[GenoLLM](https://github.com/Huatsing-Lau/GenoLLM)](https://www.biorxiv.org/content/10.1101/2024.02.26.581496v1) | Multi-task | bioRxiv | Feb 26, 2024 | [code](https://github.com/Huatsing-Lau/GenoLLM) |
+| [GenATator](https://openreview.net/forum?id=sla2edDxc3) | Gene Annotation | ICLR 2025 Workshop | Mar 05, 2025 | – |
 
 
 ### 5.2 MLLMs Related Work
