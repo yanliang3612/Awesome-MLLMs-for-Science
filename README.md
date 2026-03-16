@@ -300,3 +300,6 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [LLM4GRN: Large Language Models for Gene Regulatory Network Inference](https://arxiv.org/abs/2410.15828) | Regulatory | arXiv | Oct 21, 2024 | - |
 | [GeneBERT: A Pretrained Model for Gene Regulatory Sequence Analysis](https://arxiv.org/abs/2110.05231) | Regulatory | arXiv | Oct 11, 2021 | - |
 | [GeneCompass: Deciphering Gene Regulatory Networks with Foundation Models](https://www.biorxiv.org/content/10.1101/2023.09.26.559542v1) | Regulatory | bioRxiv | Sep 28, 2023 | [code](https://github.com/xCompass-AI/GeneCompass) |
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
