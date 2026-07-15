@@ -40,6 +40,7 @@ This repository accompanies our survey and provides a structured overview of MLL
 - [🧬 MLLMs for Protein](#3-mllms-for-protein)
 - [⚛️ MLLMs for Materials](#4-mllms-for-materials)
 - [🧬 MLLMs for Genomics](#5-mllms-for-genomics)
+- [🔬 General Scientific MLLMs & Benchmarks](#6-general-scientific-mllms--benchmarks)
 - [📝 Citation](#citation)
 - [🤝 Contributing](#contributing)
 
@@ -73,6 +74,7 @@ If you find this repository or our survey useful, please cite our paper.
 
 ## News & Updates
 
+- **2026-07-15:** Added recent scientific MLLMs and benchmarks from arXiv, bioRxiv, OpenReview, ACL, NeurIPS, and Nature-family journals; publication records were preferred over earlier preprints.
 - **2026-02-27:**  Our preprint is available online at [Preprints.org](https://preprints.org/) ! Check [here](https://www.preprints.org/manuscript/202602.1847).
 - **2025-11-13:** The first version of S3Bench is accepted by [NeurIPS 2025 VLM4RWD Workshop](https://mozhgan91.github.io/vlm4rwd-neurips25-ws/) ! Check our [project page](https://bagayalus.github.io/S3-Bench/).
 
@@ -122,6 +124,9 @@ If you find this repository or our survey useful, please cite our paper.
 |:--------|:--------:|:--------:|:----------------:|
 | [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) | arXiv | Jan 26, 2024 | [project page](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
 | [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/abs/2406.10833) | EMNLP 2024 | Jul 16, 2024 | [project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) |
+| [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151) | arXiv | Feb 7, 2025 | - |
+| [Foundation Models for Materials Discovery: Current State and Future Directions](https://www.nature.com/articles/s41524-025-01538-0) | npj Computational Materials | Mar 6, 2025 | - |
+| [Towards Multimodal Foundation Models in Molecular Cell Biology](https://www.nature.com/articles/s41586-025-08710-y) | Nature | Apr 16, 2025 | - |
 
 ## 2. MLLMs for Drug & Molecule
 
@@ -150,7 +155,7 @@ If you find this repository or our survey useful, please cite our paper.
 | [Drugllm: Open large language model for few-shot molecule generation](https://arxiv.org/abs/2405.06690) | arXiv | May 07, 2024 | - |
 | [CogMol: Target-specific and selective drug design for covid-19 using deep generative models](https://arxiv.org/abs/2004.01215) | NeurIPS 2020 | Jun 24, 2020 | - |
 | [X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full) | bioRxiv | Jan 1, 2021 | - |
-| [Molecular representation learning with language models and domain-relevant auxiliary tasks](https://arxiv.org/abs/2011.13230) | arXiv | Nov 26, 2020 | [code](https://github.com/BenevolentAI/MolBERT) |
+| [Generation of 3D Molecules in Pockets via a Language Model](https://www.nature.com/articles/s42256-023-00775-6) | Nature Machine Intelligence | Jan 15, 2024 | - |
 
 
 ### 2.3 Controlled Molecule Optimization and Editing
@@ -163,6 +168,8 @@ If you find this repository or our survey useful, please cite our paper.
 | [MolT5: Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817) | EMNLP 2022 | Apr 25, 2022 | [code](https://github.com/blender-nlp/MolT5) |
 | [Mollm: Multi-objective large language model for molecular design–optimizing with experts](https://arxiv.org/html/2502.12845v1) | arXiv | Feb 18, 2025 | - |
 | [Drugassist: A large language model for molecule optimization](https://academic.oup.com/bib/article/26/1/bbae693/7942355) | Briefings in Bioinformatics | Dec 28, 2023 | [code](https://github.com/blazerye/DrugAssist) |
+| [Multi-modal Molecule Structure–Text Model for Text-based Retrieval and Editing](https://www.nature.com/articles/s42256-023-00759-6) | Nature Machine Intelligence | Dec 18, 2023 | [code](https://github.com/chao1224/MoleculeSTM) |
+| [Bidirectional Generation of Structure and Properties through a Single Molecular Foundation Model](https://www.nature.com/articles/s41467-024-46440-3) | Nature Communications | Mar 14, 2024 | - |
 
 
 ### 2.4 Chemical Reaction Prediction and Synthesis Planning
@@ -193,6 +200,12 @@ If you find this repository or our survey useful, please cite our paper.
 | [ChemToolAgent: The impact of tools on language agents for chemistry problem solving](https://arxiv.org/abs/2411.07228) | arXiv | Nov 11, 2024 | [code](https://github.com/OSU-NLP-Group/ChemToolAgent) |
 | [Chemagent: Self-updating memories in large language models improves chemical reasoning](https://openreview.net/forum?id=kuhIqeVg0e) | ICLR 2025 | Mar 12, 2025 | [code](https://github.com/gersteinlab/ChemAgent) |
 | [Chemthinker: Thinking like a chemist with multi-agent llms for deep molecular insights](https://openreview.net/forum?id=zlAUnwhE2v) | arXiv | Sep 28, 2024 | - |
+| [Towards 3D Molecule-Text Interpretation in Language Models (3D-MoLM)](https://openreview.net/forum?id=xI4yNlkaqh) | ICLR 2024 | Jan 16, 2024 | [code](https://github.com/lsh0520/3D-MoLM) |
+| [ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry](https://arxiv.org/abs/2408.07246) | arXiv | Aug 16, 2024 | [model](https://huggingface.co/AI4Chem/ChemVLM-26B) |
+| [Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation](https://openreview.net/forum?id=t1mAXb4Cop) | NeurIPS 2024 Datasets & Benchmarks | Sep 26, 2024 | [code](https://github.com/KehanGuo2/MolPuzzle) |
+| [ChemMLLM: Chemical Multimodal Large Language Model](https://arxiv.org/abs/2505.16326) | arXiv | May 22, 2025 | [code](https://github.com/bbsbz/ChemMLLM) |
+| [Chem3DLLM: 3D Multimodal Large Language Models for Chemistry](https://arxiv.org/abs/2508.10696) | arXiv | Aug 14, 2025 | - |
+| [MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Model](https://aclanthology.org/2025.findings-emnlp.1174/) | Findings of EMNLP 2025 | Nov 2025 | - |
 
 
 
@@ -213,8 +226,6 @@ If you find this repository or our survey useful, please cite our paper.
 | [ESMFold: End-to-End Single-Sequence Protein Structure Prediction Using a Language Model](https://www.science.org/doi/10.1126/science.ade2574) | Science | Mar, 2023 | [code](https://github.com/facebookresearch/esm) |
 | [ESM-IF1: Protein Sequence Design from Structure Using Inverse Folding Language Models](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1) | bioRxiv | Apr 10, 2022 | [code](https://github.com/facebookresearch/esm) |
 | [GearNet: Geometric Graph Neural Network for Protein Representation Learning](https://arxiv.org/abs/2203.06125) | ICLR | Mar 11, 2022 | [code](https://github.com/DeepGraphLearning/GearNet) |
-| [SaProt: Protein Language Modeling with Structure-Aware Tokens](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v1) | biRxiv | Oct 01, 2023 | [code](https://github.com/westlake-repl/SaProt) |
-| [OntoProtein: Protein Pretraining with Ontology-based Knowledge](https://arxiv.org/abs/2201.11147) | ICLR | Jan 23 2022 | [code](https://github.com/zjunlp/OntoProtein) |
 | [ProGen: Language Models of Protein Sequences at the Scale of Evolution Enable Accurate Structure and Function Prediction](https://www.nature.com/articles/s41587-022-01618-2) |  Nature Biotechnology | Jan 26, 2023 | [code](https://github.com/salesforce/progen) |
 | [ProtGPT2: Deep Unsupervised Language Modeling for Protein Design](https://doi.org/10.1038/s41467-022-32007-7) | Nature Communications | Jul 27, 2022 | [code](https://github.com/nferruz/ProtGPT2) |
 | [ProGen2: Exploring the Boundaries of Protein Language Models](https://arxiv.org/abs/2206.13517) | arXiv | Jun 27, 2022 | [code](https://github.com/salesforce/progen) |
@@ -227,7 +238,7 @@ If you find this repository or our survey useful, please cite our paper.
 | [ProteinDT: A Text-guided Protein Design Framework](https://www.nature.com/articles/s42256-025-01011-z) | Nature Machine Intelligence | Mar 27, 2025 | [code](https://github.com/chao1224/ProteinDT) |
 | [ProtT3: Protein-to-Text and Text-to-Protein Generation with Language Models](https://aclanthology.org/2024.acl-long.324/) | ACL | May 21, 2024 | [code](https://github.com/acharkq/ProtT3) |
 | [ProtCLIP: Contrastive Language–Protein Pre-training for Protein Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34456/36611) | AAAI | Dec 28, 2024 | [code](https://github.com/diaoshaoyou/ProtCLIP) |
-| [OntoProtein: Protein Pretraining with Ontology-based Knowledge](https://arxiv.org/abs/2201.11147) | ICLR | Jan 23, 2022 | [code](https://github.com/zjunlp/OntoProtein) |
+| [OntoProtein: Protein Pretraining with Ontology-based Knowledge](https://arxiv.org/abs/2201.11147) | ICLR 2022 | Jan 23, 2022 | [code](https://github.com/zjunlp/OntoProtein) |
 | [BioMedGPT: A Generalist Vision–Language Foundation Model for Biomedical Tasks](https://arxiv.org/abs/2308.09442) | arXiv | Aug 18, 2023 | - |
 | [ProtLLM: Large Language Models for Protein Representation and Reasoning](https://arxiv.org/abs/2403.07920) | arXiv | Feb 28, 2024 | [code](https://github.com/ProtLLM/ProtLLM) |
 | [ProLLaMA: Protein Large Language Model for Sequence Understanding and Generation](https://arxiv.org/abs/2402.16445) | arXiv | Feb 26, 2024 | [code](https://github.com/PKU-YuanGroup/ProLLaMA) |
@@ -247,13 +258,18 @@ If you find this repository or our survey useful, please cite our paper.
 | [SaProt: Protein Language Modeling with Structure-aware Tokens](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v3) | bioRXiv | Oct 1, 2023 | [code](https://github.com/westlake-repl/SaProt) |
 | [FoldToken: Learning Protein Fold Representations via Discrete Tokenization](https://arxiv.org/abs/2403.09673) | arXiv | Feb 4, 2024 | [code](https://github.com/A4Bio/FoldToken_open) |
 | [EvoLa: Evolutionary Language Models for Protein Representation and Generation](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1) | biRXiv | Jan 5, 2025 | - |
-| [DPLM-2: Diffusion Protein Language Models for Scalable Protein Design](https://arxiv.org/abs/2410.13782) | arXiv | Oct 17, 2024 | [code](https://github.com/bytedance/dplm) |
+| [DPLM-2: A Multimodal Diffusion Protein Language Model](https://openreview.net/forum?id=5z9GjHgerY) | ICLR 2025 | Oct 17, 2024 | [code](https://github.com/bytedance/dplm) |
 | [ProTokens: Structure-aware Tokenization for Protein Language Modeling](https://www.biorxiv.org/content/10.1101/2023.11.27.568722v2) | bioRXiv | Nov 27, 2023 | - |
 | [ProSST: Protein Sequence-Structure Transformer for Unified Protein Modeling](https://www.biorxiv.org/content/10.1101/2024.04.15.589672v2) | bioRXiv | Apr 15, 2024 | [code](https://github.com/openmedlab/ProSST) |
 | [ProteinGPT: Large Language Models for Protein Structure and Function Generation](https://arxiv.org/abs/2408.11363) | arXiv | Aug 21, 2024 | [code](https://github.com/OviaLabs/ProteinGPT) |
 | [ProtChatGPT: A Large Language Model Framework for Protein Knowledge Understanding and Generation](https://arxiv.org/abs/2402.09649) | arXiv | Feb 15, 2024 | - |
 | [STELLA: Structure-Enhanced Large Language Model for Protein Modeling](https://arxiv.org/abs/2506.03800) | arXiv | Jun 4, 2025 | - |
 | [InstructBioMol: Instruction-Tuned Multimodal Language Models for Biomolecular Understanding](https://arxiv.org/abs/2410.07919) | arXiv | Oct 10, 2024 | [code](https://github.com/HICAI-ZJU/InstructBioMol) |
+| [MULAN: Multimodal Protein Language Model for Sequence and Structure Encoding](https://openreview.net/forum?id=uXLXq4ugAy) | OpenReview (ICLR 2025 submission) | Sep 26, 2024 | - |
+| [Prot2Chat: Protein Large Language Model with Early Fusion of Text, Sequence, and Structure](https://academic.oup.com/bioinformatics/article/41/8/btaf396/8215464) | Bioinformatics | 2025 | [code](https://github.com/wangzc1233/Prot2Chat) |
+| [ProTeX: Structure-In-Context Reasoning and Editing of Proteins with Large Language Models](https://arxiv.org/abs/2503.08179) | arXiv | Mar 11, 2025 | - |
+| [Understanding Protein Function with a Multimodal Retrieval-Augmented Foundation Model (PoET-2)](https://openreview.net/forum?id=fKerD2AQai) | NeurIPS 2025 | Sep 18, 2025 | [code](https://github.com/OpenProteinAI/PoET-2) |
+| [A Trimodal Protein Language Model Enables Advanced Protein Searches (ProTrek)](https://www.nature.com/articles/s41587-025-02836-0) | Nature Biotechnology | Oct 2, 2025 | [code](https://github.com/westlake-repl/ProTrek) |
 #### 3.2.3 Protein Interactions and Specialized Applications
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -298,13 +314,16 @@ If you find this repository or our survey useful, please cite our paper.
 |:--------|:--------:|:--------:|:--------:|
 | [Multi-modal conditional diffusion model using signed distance functions for metal-organic frameworks generation](https://www.nature.com/articles/s41467-024-55390-9) | Nature Communications | Jul 5, 2024 | [code](https://github.com/parkjunkil/MOFFUSION) |
 | [GenMS: Generative Hierarchical Materials Search](https://arxiv.org/abs/2409.06762) | NeurIPS 2024 | Sep 10, 2024 | - |
-| [Probing the limitations of multimodal language models for chemistry and materials research](https://www.nature.com/articles/s43588-025-00836-3) | Nature Computational Science | Nov 25, 2024 | [code](https://github.com/lamalab-org/mac-bench) |
-| [MatterChat: A Multi-Modal LLM for Material Science](https://arxiv.org/abs/2502.13107) | arXiv | Feb 18, 2025 | - |
+| [Probing the Limitations of Multimodal Language Models for Chemistry and Materials Research (MaCBench)](https://www.nature.com/articles/s43588-025-00836-3) | Nature Computational Science | Aug 11, 2025 | [code](https://github.com/lamalab-org/mac-bench) |
+| [A Multimodal Large Language Model for Materials Science (MatterChat)](https://www.nature.com/articles/s42256-026-01214-y) | Nature Machine Intelligence | Apr 24, 2026 | [code](https://zenodo.org/records/18735881) |
 | [LLM-Fusion: A Novel Multimodal Fusion Model for Accelerated Material Discovery](https://arxiv.org/abs/2503.01022) | AAAI 2025 Workshop (AI2ASE) | Mar 2, 2025 | - |
 | [Multimodal Foundation Models for Material Property Prediction and Discovery](https://arxiv.org/abs/2312.00111) | Newton | Nov 30, 2023 | [code](https://github.com/vmoro1/multimat) |
 | [Automating alloy design and discovery with physics-aware multimodal multiagent AI](https://www.pnas.org/doi/10.1073/pnas.2414074122) | PNAS | Jan 24, 2025 | [code](https://github.com/lamm-mit/AtomAgents) |
 | [Multimodal Machine Learning for Materials Science: Discovery of Novel Li-Ion Solid Electrolytes](https://pubs.acs.org/doi/10.1021/acs.chemmater.4c02257) | Chemistry of Materials | Nov 29, 2024 | [code](https://github.com/shenggong1996/COSNet) |
 | [TDCM25: A Multi-Modal Multi-Task Benchmark for Temperature-Dependent Crystalline Materials](https://openreview.net/forum?id=bNB5SQTqKL) | AI4Mat-ICLR 2025 | Mar 3, 2025 | [code](https://github.com/KurbanIntelligenceLab/TDCM25) |
+| [Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework](https://arxiv.org/abs/2506.00302) | arXiv | May 30, 2025 | [code](https://github.com/KurbanIntelligenceLab/MultiCrystalSpectrumSet) |
+| [Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on Materials Characterization](https://arxiv.org/abs/2509.09307) | arXiv | Sep 11, 2025 | [code](https://github.com/FreedomIntelligence/MatCha) |
+| [L²M³OF: A Large Language Multimodal Model for Metal-Organic Frameworks](https://arxiv.org/abs/2510.20976) | arXiv | Oct 23, 2025 | - |
 
 
 
@@ -341,6 +360,25 @@ If you find this repository or our survey useful, please cite our paper.
 | [LLM4GRN: Large Language Models for Gene Regulatory Network Inference](https://arxiv.org/abs/2410.15828) | Regulatory | arXiv | Oct 21, 2024 | - |
 | [GeneBERT: A Pretrained Model for Gene Regulatory Sequence Analysis](https://arxiv.org/abs/2110.05231) | Regulatory | arXiv | Oct 11, 2021 | - |
 | [GeneCompass: Deciphering Gene Regulatory Networks with Foundation Models](https://www.biorxiv.org/content/10.1101/2023.09.26.559542v1) | Regulatory | bioRxiv | Sep 28, 2023 | [code](https://github.com/xCompass-AI/GeneCompass) |
+| [Multimodal Language Modeling for High-Accuracy Single Cell Transcriptomics Analysis and Generation (scMMGPT)](https://arxiv.org/abs/2503.09427) | Single-cell / Cell–Text | arXiv | Mar 12, 2025 | - |
+| [Scaling Large Language Models for Next-Generation Single-Cell Analysis (C2S-Scale)](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v4) | Single-cell / Cell–Text | bioRxiv | Apr 14, 2025 | [code](https://github.com/vandijklab/cell2sentence) |
+| [Multi-modal Single-Cell Foundation Models via Dynamic Token Adaptation](https://arxiv.org/abs/2504.13049) | Single-cell / DNA–RNA | arXiv | Apr 17, 2025 | - |
+| [BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model](https://arxiv.org/abs/2505.23579) | Genomic Reasoning | NeurIPS 2025 | May 29, 2025 | [code](https://github.com/bowang-lab/BioReason) |
+| [Multimodal Learning Enables Chat-based Exploration of Single-cell Data (CellWhisperer)](https://www.nature.com/articles/s41587-025-02857-9) | Single-cell / Cell–Text | Nature Biotechnology | Nov 11, 2025 | [code](https://github.com/epigen/CellWhisperer) |
+
+## 6. General Scientific MLLMs & Benchmarks
+
+This section collects domain-general scientific multimodal models, datasets, and evaluation environments that span multiple scientific disciplines.
+
+| Title | Venue | Date | Code / Project |
+|:--------|:--------:|:--------:|:--------:|
+| [Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models](https://aclanthology.org/2024.acl-long.775/) | ACL 2024 | Mar 1, 2024 | [project](https://mm-arxiv.github.io/) |
+| [Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning](https://arxiv.org/abs/2506.10521) | NeurIPS 2025 Datasets & Benchmarks | Jun 12, 2025 | - |
+| [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://openreview.net/forum?id=CTtuhMeU5e) | WCUA 2025 Oral | Jun 8, 2025 | - |
+| [Intern-S1: A Scientific Multimodal Foundation Model](https://arxiv.org/abs/2508.15763) | arXiv | Aug 21, 2025 | [code](https://github.com/InternLM/Intern-S1) |
+| [Innovator-VL: A Multimodal Large Language Model for Scientific Discovery](https://arxiv.org/abs/2601.19325) | arXiv | Jan 27, 2026 | [code](https://github.com/InnovatorLM/Innovator-VL) |
+| [Towards Multimodal Data-Driven Scientific Discovery Powered by LLM Agents](https://openreview.net/forum?id=kZHSvETWdi) | ICLR 2026 | 2026 | - |
+| [S1-VL: Scientific Multimodal Reasoning Model with Thinking-with-Images](https://arxiv.org/abs/2604.21409) | arXiv | Apr 23, 2026 | - |
 
 ## Contributing
 
