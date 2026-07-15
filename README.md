@@ -5,6 +5,14 @@
 <h1 align="center">A Comprehensive Survey of Multimodal LLMs for Scientific Discovery</h1>
 
 <p align="center">
+  Liang Yan<sup>†‡</sup>, Xu Jiang<sup>‡</sup>, Jian Ma<sup>‡</sup>, Yuhang Liu, Tian Bian, Qichao Wang,<br>
+  Abhishek Basu, Yu Rong, Tingyang Xu, Pengcheng Wu, Le Song, Imran Razzak,<br>
+  Junchi Yan<sup>§</sup>, Zengfeng Huang<sup>§</sup>, Yutong Xie<sup>§</sup>
+  <br>
+  <sub>† Project Lead &nbsp;&nbsp; ‡ Equal Contribution &nbsp;&nbsp; § Corresponding Author</sub>
+</p>
+
+<p align="center">
   A curated collection of multimodal large language models for<br>
   <b>drug discovery</b>, <b>molecular & protein design</b>, <b>materials science</b>, and <b>genomics</b>.
 </p>
@@ -61,12 +69,6 @@ This repository accompanies our survey and provides a structured overview of MLL
 - [💬 SciGenAI Community](#community)
 - [📝 Citation](#citation)
 - [🤝 Contributing](#contributing)
-
-## Authors
-
-[Liang Yan](https://divinyan.com/)†‡, [Xu Jiang](https://openreview.net/profile?id=~Xu_Jiang9)‡, [Jian Ma](https://openreview.net/profile?id=~Jian_Ma8)‡, [Yuhang Liu](https://openreview.net/profile?id=~Yuhang_Liu21), [Tian Bian](https://scholar.google.com/citations?user=rxmCzYIAAAAJ&hl=zh-TW), [Qichao Wang](https://qichaowang.me/), [Abhishek Basu](https://abasu.ai/), [Yu Rong](https://royrong.me/), [Tingyang Xu](https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=zh-CN), [Pengcheng Wu](https://scholar.google.com/citations?user=kX_GFDIAAAAJ&hl=en), [Le Song](https://dasongle.github.io/), [Imran Razzak](https://imranrazzak.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn/)§, [Zengfeng Huang](https://zengfenghuang.github.io/)§, [Yutong Xie](https://ytongxie.github.io/)§
-
-<sub>† Project Lead &nbsp;&nbsp; ‡ Equal Contribution &nbsp;&nbsp; § Corresponding Author</sub>
 
 ## Citation
 
