@@ -11,11 +11,26 @@
 
 <p align="center">
   <a href="https://github.com/yanliang3612/Awesome-MLLMs-for-Science/issues/new"><img src="https://img.shields.io/badge/Add_a_recent_scientific_MLLM-Submit-6f42c1" alt="Submit a recent scientific MLLM"></a>
+  <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg"><img src="src/slack-join-badge.svg" alt="Join SciGenAI on Slack"></a>
   <a href="https://bagayalus.github.io/S3-Bench/"><img src="https://img.shields.io/badge/Project-Page-1677ff" alt="Project Page"></a>
   <a href="https://www.preprints.org/manuscript/202602.1847"><img src="https://img.shields.io/badge/Paper-Preprint-f59e0b" alt="Preprint"></a>
   <a href="https://openreview.net/forum?id=HSz1Kr5BeC"><img src="https://img.shields.io/badge/OpenReview-Discuss-8b5cf6" alt="OpenReview Discussion"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-ec4899" alt="BibTeX Citation"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e" alt="MIT License"></a>
+</p>
+
+<p align="center">
+  <a href="#community">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=18&amp;pause=1200&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Join+the+SciGenAI+Community+for+MLLM4Sci;Real-time+Q%26A+%E2%80%A2+code+commits+%E2%80%A2+pull+requests;Discuss+%26+collaborate+across+generative+AI+for+science" alt="Join the SciGenAI Community for MLLM4Sci">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg">
+    <img src="src/scigenai-slack-qr.png" alt="QR code to join the SciGenAI Slack community" width="180">
+  </a>
+  <br>
+  <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg"><strong>Scan the QR code or join via the Slack invitation link</strong></a>
 </p>
 
 <br>
@@ -43,6 +58,7 @@ This repository accompanies our survey and provides a structured overview of MLL
 - [⚛️ MLLMs for Materials](#4-mllms-for-materials)
 - [🧬 MLLMs for Genomics](#5-mllms-for-genomics)
 - [🔬 General Scientific MLLMs & Benchmarks](#6-general-scientific-mllms--benchmarks)
+- [💬 SciGenAI Community](#community)
 - [📝 Citation](#citation)
 - [🤝 Contributing](#contributing)
 
@@ -76,6 +92,7 @@ If you find this repository or our survey useful, please cite our paper.
 
 ## News & Updates
 
+- **2026-07-15:** Launched the [SciGenAI Slack community](#community), including a dedicated `mllm4sci` channel for project support and collaboration.
 - **2026-07-15:** Added recent scientific MLLMs and benchmarks from arXiv, bioRxiv, OpenReview, ACL, NeurIPS, and Nature-family journals; publication records were preferred over earlier preprints.
 - **2026-02-27:**  Our preprint is available online at [Preprints.org](https://preprints.org/) ! Check [here](https://www.preprints.org/manuscript/202602.1847).
 - **2025-11-13:** The first version of S3Bench is accepted by [NeurIPS 2025 VLM4RWD Workshop](https://mozhgan91.github.io/vlm4rwd-neurips25-ws/) ! Check our [project page](https://bagayalus.github.io/S3-Bench/).
@@ -381,6 +398,30 @@ This section collects domain-general scientific multimodal models, datasets, and
 | [Innovator-VL: A Multimodal Large Language Model for Scientific Discovery](https://arxiv.org/abs/2601.19325) | arXiv | Jan 27, 2026 | [code](https://github.com/InnovatorLM/Innovator-VL) |
 | [Towards Multimodal Data-Driven Scientific Discovery Powered by LLM Agents](https://openreview.net/forum?id=kZHSvETWdi) | ICLR 2026 | 2026 | - |
 | [S1-VL: Scientific Multimodal Reasoning Model with Thinking-with-Images](https://arxiv.org/abs/2604.21409) | arXiv | Apr 23, 2026 | - |
+
+## Community
+
+### Join the SciGenAI Slack
+
+SciGenAI is a community platform for discussion and collaboration around **generative AI for science**. The workspace brings together researchers, students, engineers, and open-source contributors working across MLLMs and other AI4Science projects.
+
+The workspace includes a dedicated **`mllm4sci` channel** for this repository. You can use it to:
+
+- Ask project questions and get real-time community support.
+- Discuss papers, benchmarks, implementation details, and reproducibility.
+- Coordinate code contributions, commits, issues, and pull requests.
+- Share new MLLM-for-science resources and find research collaborators.
+- Connect with other generative-AI-for-science projects in their dedicated channels.
+
+**Option 1 — Invitation link:** [Join the SciGenAI Slack community](https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg)
+
+**Option 2 — QR code:** Scan the code below with your phone. The QR image is also clickable.
+
+<p align="center">
+  <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg">
+    <img src="src/scigenai-slack-qr.png" alt="QR code to join the SciGenAI Slack community" width="220">
+  </a>
+</p>
 
 ## Contributing
 
