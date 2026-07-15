@@ -20,7 +20,9 @@
 
 <br>
 
-<video src="https://github.com/user-attachments/assets/d91ea824-d101-4d6d-ac10-7323cc2791b0"></video>
+<p align="center">
+  <img src="src/demo.gif" alt="S3-Bench overview" width="100%">
+</p>
 
 ## Overview
 
