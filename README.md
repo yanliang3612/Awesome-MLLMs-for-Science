@@ -5,11 +5,11 @@
 <h1 align="center">A Comprehensive Survey of Multimodal LLMs for Scientific Discovery</h1>
 
 <p align="center">
-  Liang Yan<sup>†‡</sup>, Xu Jiang<sup>‡</sup>, Jian Ma<sup>‡</sup>, Yuhang Liu, Tian Bian, Qichao Wang,<br>
+  Liang Yan<sup>1,2</sup>, Xu Jiang<sup>2</sup>, Jian Ma<sup>2</sup>, Yuhang Liu, Tian Bian, Qichao Wang,<br>
   Abhishek Basu, Yu Rong, Tingyang Xu, Pengcheng Wu, Le Song, Imran Razzak,<br>
-  Junchi Yan<sup>§</sup>, Zengfeng Huang<sup>§</sup>, Yutong Xie<sup>§</sup>
+  Junchi Yan<sup>3</sup>, Zengfeng Huang<sup>3</sup>, Yutong Xie<sup>3</sup>
   <br>
-  <sub>† Project Lead &nbsp;&nbsp; ‡ Equal Contribution &nbsp;&nbsp; § Corresponding Author</sub>
+  <sub>1 Project Lead &nbsp;&nbsp; 2 Equal Contribution &nbsp;&nbsp; 3 Corresponding Author</sub>
 </p>
 
 <p align="center">
