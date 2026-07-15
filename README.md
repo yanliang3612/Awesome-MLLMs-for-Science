@@ -1,21 +1,60 @@
-# A Comprehensive Survey of Multimodal LLMs for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <img src="src/logo.png" alt="Awesome MLLMs for Scientific Discovery" width="100%">
+</p>
 
-<img src="src/logo.png" alt="logo">
+<h1 align="center">A Comprehensive Survey of Multimodal LLMs for Scientific Discovery</h1>
+
+<p align="center">
+  A curated collection of multimodal large language models for<br>
+  <b>drug discovery</b>, <b>molecular & protein design</b>, <b>materials science</b>, and <b>genomics</b>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/yanliang3612/Awesome-MLLMs-for-Science/issues/new"><img src="https://img.shields.io/badge/Add_a_recent_scientific_MLLM-Submit-6f42c1" alt="Submit a recent scientific MLLM"></a>
+  <a href="https://bagayalus.github.io/S3-Bench/"><img src="https://img.shields.io/badge/Project-Page-1677ff" alt="Project Page"></a>
+  <a href="https://www.preprints.org/manuscript/202602.1847"><img src="https://img.shields.io/badge/Paper-Preprint-f59e0b" alt="Preprint"></a>
+  <a href="https://openreview.net/forum?id=HSz1Kr5BeC"><img src="https://img.shields.io/badge/OpenReview-Discuss-8b5cf6" alt="OpenReview Discussion"></a>
+  <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-ec4899" alt="BibTeX Citation"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e" alt="MIT License"></a>
+</p>
+
+<br>
 
 <video src="https://github.com/user-attachments/assets/d91ea824-d101-4d6d-ac10-7323cc2791b0"></video>
 
+## Overview
 
-[[Project Page]](https://bagayalus.github.io/S3-Bench/) [[Preprint]](https://www.preprints.org/manuscript/202602.1847) [[OpenReview]](https://openreview.net/forum?id=HSz1Kr5BeC)
+Recent advances in artificial intelligence—especially large language models—have accelerated the integration of multimodal data in scientific research. Scientific domains span text and images as well as biological sequences, graphs, and structures. Multimodal large language models (MLLMs) bridge these modalities to enable richer analysis and more capable scientific decision-making.
 
-Author list: [Liang Yan](https://divinyan.com/)†‡, [Xu Jiang](https://openreview.net/profile?id=~Xu_Jiang9)‡, [Jian Ma](https://openreview.net/profile?id=~Jian_Ma8)‡, [Yuhang Liu](https://openreview.net/profile?id=~Yuhang_Liu21), [Tian Bian](https://scholar.google.com/citations?user=rxmCzYIAAAAJ&hl=zh-TW), [Qichao Wang](https://qichaowang.me/), [Abhishek Basu](https://abasu.ai/), [Yu Rong](https://royrong.me/), [Tingyang Xu](https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=zh-CN),[Pengcheng Wu](https://scholar.google.com/citations?user=kX_GFDIAAAAJ&hl=en), [Le Song](https://dasongle.github.io/), [Imran Razzak](https://imranrazzak.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn/)§, [Zengfeng Huang](https://zengfenghuang.github.io/)§, [Yutong Xie](https://ytongxie.github.io/)§
+This repository accompanies our survey and provides a structured overview of MLLMs across four key areas. We cover model architectures, domain-specific adaptations, benchmark datasets, representative applications, and promising future directions.
 
-(† Project Lead, ‡ Equal Contribution, § Corresponding Author)
+| 🧪 Drug & Molecule | 🧬 Protein | ⚛️ Materials | 🧬 Genomics |
+|:---:|:---:|:---:|:---:|
+| Representation, generation, optimization, reactions, and agents | Sequence, structure, language integration, and interactions | Generation, property prediction, discovery, and multimodal agents | Gene analysis, regulation, expression, and reasoning |
 
-Recent advances in artificial intelligence (AI), especially large language models, have accelerated the integration of multimodal data in scientific research. Given that scientific fields involve diverse data types, ranging from text and images to complex biological sequences, graphs, and structures, multimodal large language models (MLLMs) have emerged as powerful tools to bridge these modalities, enabling more comprehensive data analysis and intelligent decision-making. This work, S3−Bench, provides a comprehensive overview of recent advances in MLLMs, focusing on their diverse applications across science. We systematically review the progress of MLLMs in key scientific domains, including drug discovery, molecular & protein design, materials science, and genomics. The work highlights model architectures, domain-specific adaptations, benchmark datasets, and promising future directions. Our work aims to serve as a valuable resource for both researchers and practitioners interested in the rapidly evolving landscape of multimodal AI for science.
+## Quick Navigation
 
+- [📢 News & Updates](#news--updates)
+- [📚 Related Survey Work](#1-related-survey-work)
+- [🧪 MLLMs for Drug & Molecule](#2-mllms-for-drug--molecule)
+- [🧬 MLLMs for Protein](#3-mllms-for-protein)
+- [⚛️ MLLMs for Materials](#4-mllms-for-materials)
+- [🧬 MLLMs for Genomics](#5-mllms-for-genomics)
+- [📝 Citation](#citation)
+- [🤝 Contributing](#contributing)
 
+## Authors
 
-*If you find this repository or our survey helpful in your research, please kindly cite our paper:*
+[Liang Yan](https://divinyan.com/)†‡, [Xu Jiang](https://openreview.net/profile?id=~Xu_Jiang9)‡, [Jian Ma](https://openreview.net/profile?id=~Jian_Ma8)‡, [Yuhang Liu](https://openreview.net/profile?id=~Yuhang_Liu21), [Tian Bian](https://scholar.google.com/citations?user=rxmCzYIAAAAJ&hl=zh-TW), [Qichao Wang](https://qichaowang.me/), [Abhishek Basu](https://abasu.ai/), [Yu Rong](https://royrong.me/), [Tingyang Xu](https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=zh-CN), [Pengcheng Wu](https://scholar.google.com/citations?user=kX_GFDIAAAAJ&hl=en), [Le Song](https://dasongle.github.io/), [Imran Razzak](https://imranrazzak.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn/)§, [Zengfeng Huang](https://zengfenghuang.github.io/)§, [Yutong Xie](https://ytongxie.github.io/)§
+
+<sub>† Project Lead &nbsp;&nbsp; ‡ Equal Contribution &nbsp;&nbsp; § Corresponding Author</sub>
+
+## Citation
+
+If you find this repository or our survey useful, please cite our paper.
+
+<details>
+<summary><b>Show BibTeX</b></summary>
 
 ```bibtex
 @article{202602.1847,
@@ -30,13 +69,15 @@ Recent advances in artificial intelligence (AI), especially large language model
 }
 ```
 
+</details>
+
 ## News & Updates
 
 - **2026-02-27:**  Our preprint is available online at [Preprints.org](https://preprints.org/) ! Check [here](https://www.preprints.org/manuscript/202602.1847).
 - **2025-11-13:** The first version of S3Bench is accepted by [NeurIPS 2025 VLM4RWD Workshop](https://mozhgan91.github.io/vlm4rwd-neurips25-ws/) ! Check our [project page](https://bagayalus.github.io/S3-Bench/).
 
 
-## 1. Related Survery Work
+## 1. Related Survey Work
 
 
 ### 1.1 Survey for General LLMs
@@ -62,7 +103,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [A Comprehensive Survey of Multimodal Large Language Models: Concept, Application and Safety](https://www.researchgate.net/publication/385012837_A_Comprehensive_Survey_of_Multimodal_Large_Language_Models_Concept_Application_and_Safety) | arXiv | Oct 18, 2024 | - |
 
 
-### 1.3 Survey for LLMs&MLLMs for Medicine
+### 1.3 Surveys of LLMs & MLLMs for Medicine
 |  Title  |   Venue  |   Date   |   Project Page   |
 |:--------|:--------:|:--------:|:----------------:|
 | [Large language models in medicine](https://www.nature.com/articles/s41591-023-02448-8) | Nature Medicine | Jul 17, 2023 | - |
@@ -76,13 +117,13 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 
-### 1.4 Survey for LLMs&MLLMs for Science
+### 1.4 Surveys of LLMs & MLLMs for Science
 |  Title  |   Venue  |   Date   |   Project Page   |
 |:--------|:--------:|:--------:|:----------------:|
 | [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) | arXiv | Jan 26, 2024 | [project page](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
 | [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/abs/2406.10833) | EMNLP 2024 | Jul 16, 2024 | [project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) |
 
-## 2. MLLMs for Drug&Molecule
+## 2. MLLMs for Drug & Molecule
 
 
 ### 2.1 Molecular Representation Learning, Property and Interaction Prediction
@@ -159,7 +200,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 ## 3. MLLMs for Protein
 
-### 3.1 LLMs related work
+### 3.1 LLMs-Related Work
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [UniRep: Unified Rational Protein Engineering with Sequence-based Deep Representation Learning](https://www.nature.com/articles/s41592-019-0598-1) | Nature Methods | Oct 21, 2019 | [code](https://github.com/churchlab/UniRep) |
@@ -179,7 +220,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [ProGen2: Exploring the Boundaries of Protein Language Models](https://arxiv.org/abs/2206.13517) | arXiv | Jun 27, 2022 | [code](https://github.com/salesforce/progen) |
 | [IgLM: Infilling Language Models Enable Scalable Design of Antibodies](https://pubmed.ncbi.nlm.nih.gov/37909045/) | Cell | Nov 15, 2023 | [code](https://github.com/Graylab/IgLM) |
 | [PALM-H3: Protein Language Model for Antibody Design and Optimization](https://www.nature.com/articles/s41467-024-50903-y) | Nature Communications | Aug 10, 2024 | [code](https://github.com/nyuolab/PALM-H3) |
-### 3.2 MLLMs related work
+### 3.2 MLLMs-Related Work
 #### 3.2.1 Protein Sequence-Language Integration
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -213,7 +254,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [ProtChatGPT: A Large Language Model Framework for Protein Knowledge Understanding and Generation](https://arxiv.org/abs/2402.09649) | arXiv | Feb 15, 2024 | - |
 | [STELLA: Structure-Enhanced Large Language Model for Protein Modeling](https://arxiv.org/abs/2506.03800) | arXiv | Jun 4, 2025 | - |
 | [InstructBioMol: Instruction-Tuned Multimodal Language Models for Biomolecular Understanding](https://arxiv.org/abs/2410.07919) | arXiv | Oct 10, 2024 | [code](https://github.com/HICAI-ZJU/InstructBioMol) |
-#### 3.2.3 Protein Interactions and Specialized Application
+#### 3.2.3 Protein Interactions and Specialized Applications
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs for Multimodal Biological Understanding](https://arxiv.org/abs/2310.03320) | arXiv | Oct 5, 2023 | [code](https://github.com/RyanWangZf/BioBridge) |
@@ -222,7 +263,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [BioTranslator: Cross-modal Translation for Integrative Biomedical Representation Learning](https://www.nature.com/articles/s41467-023-36476-2) | Nature Communications | Feb 10, 2023 | [code](https://github.com/HanwenXuTHU/BioTranslatorProject) |
 ---
 
-## 4. MLLMs for Material
+## 4. MLLMs for Materials
 
 
 ### 4.1 LLMs-Related Work
@@ -270,7 +311,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 
 
 
-## 5. MLLMs for Gene
+## 5. MLLMs for Genomics
 
 ### 5.1 LLMs-Related Work
 |  Title  |   Category  |   Venue  |   Date   |   Code   |
@@ -286,7 +327,7 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [GenoLLM: A Large Language Model Framework for Genomic Analysis and Reasoning](https://www.biorxiv.org/content/10.1101/2024.02.26.581496v1) | Multi-task | bioRxiv | Feb 26, 2024 | [code](https://github.com/Huatsing-Lau/GenoLLM) |
 | [GenATator: De Novo Gene Annotation with DNA Language Models](https://openreview.net/forum?id=sla2edDxc3) | Gene Annotation | ICLR 2025 Workshop | Mar 5, 2025 | – |
 
-### 5.2 MLLMs Related Work
+### 5.2 MLLMs-Related Work
 |  Title  |   Category  |   Venue  |   Date   |   Code   |
 |:--------|:----------:|:--------:|:--------:|:--------:|
 | [GeneChat: A Multimodal Large Language Model for Gene Function Prediction and Biological Knowledge Discovery](https://www.biorxiv.org/content/10.1101/2025.06.05.658031v1) | Function Prediction | bioRxiv | Jun 5, 2025 | [code](https://github.com/Shashi-Sekar/GeneChat) |
@@ -301,5 +342,18 @@ Recent advances in artificial intelligence (AI), especially large language model
 | [GeneBERT: A Pretrained Model for Gene Regulatory Sequence Analysis](https://arxiv.org/abs/2110.05231) | Regulatory | arXiv | Oct 11, 2021 | - |
 | [GeneCompass: Deciphering Gene Regulatory Networks with Foundation Models](https://www.biorxiv.org/content/10.1101/2023.09.26.559542v1) | Regulatory | bioRxiv | Sep 28, 2023 | [code](https://github.com/xCompass-AI/GeneCompass) |
 
+## Contributing
+
+Contributions are welcome! If you would like to add a paper, dataset, benchmark, or other resource, please open an issue or submit a pull request. To keep the collection consistent, include the title, venue, publication date, and an official project or code link whenever available.
+
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+If this collection helps your research, consider giving it a ⭐ to help others discover it.
+
+</div>
