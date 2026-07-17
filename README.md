@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="#community">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=18&amp;pause=1200&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Join+the+SciGenAI+Community+for+MLLM4Sci;Real-time+Q%26A+%E2%80%A2+code+commits+%E2%80%A2+pull+requests;Discuss+%26+collaborate+across+generative+AI+for+science" alt="Join the SciGenAI Community for MLLM4Sci">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=18&amp;pause=1200&amp;color=C56A4A&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Join+the+SciGenAI+Community+for+MLLM4Sci;Real-time+Q%26A+%E2%80%A2+code+commits+%E2%80%A2+pull+requests;Discuss+%26+collaborate+across+generative+AI+for+science" alt="Join the SciGenAI Community for MLLM4Sci">
   </a>
 </p>
 
