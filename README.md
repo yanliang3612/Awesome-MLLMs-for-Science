@@ -47,6 +47,15 @@
 
 ---
 
+## News & Updates
+
+- **2026-07-15:** Launched the [SciGenAI Slack community](#community), including a dedicated `mllm4sci` channel for project support and collaboration.
+- **2026-07-15:** Added recent scientific MLLMs and benchmarks from arXiv, bioRxiv, OpenReview, ACL, NeurIPS, and Nature-family journals; publication records were preferred over earlier preprints.
+- **2026-02-27:**  Our preprint is available online at [Preprints.org](https://preprints.org/) ! Check [here](https://www.preprints.org/manuscript/202602.1847).
+- **2025-11-13:** The first version of S3Bench is accepted by [NeurIPS 2025 VLM4RWD Workshop](https://mozhgan91.github.io/vlm4rwd-neurips25-ws/) ! Check our [project page](https://bagayalus.github.io/S3-Bench/).
+
+---
+
 ## Overview
 
 <p align="center">
@@ -75,16 +84,6 @@ This repository accompanies our survey and provides a structured overview of MLL
 - [💬 SciGenAI Community](#community)
 - [📝 Citation](#citation)
 - [🤝 Contributing](#contributing)
-
----
-
-## News & Updates
-
-- **2026-07-15:** Launched the [SciGenAI Slack community](#community), including a dedicated `mllm4sci` channel for project support and collaboration.
-- **2026-07-15:** Added recent scientific MLLMs and benchmarks from arXiv, bioRxiv, OpenReview, ACL, NeurIPS, and Nature-family journals; publication records were preferred over earlier preprints.
-- **2026-02-27:**  Our preprint is available online at [Preprints.org](https://preprints.org/) ! Check [here](https://www.preprints.org/manuscript/202602.1847).
-- **2025-11-13:** The first version of S3Bench is accepted by [NeurIPS 2025 VLM4RWD Workshop](https://mozhgan91.github.io/vlm4rwd-neurips25-ws/) ! Check our [project page](https://bagayalus.github.io/S3-Bench/).
-
 
 ---
 
