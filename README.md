@@ -17,6 +17,8 @@
   <b>drug discovery</b>, <b>molecular & protein design</b>, <b>materials science</b>, and <b>genomics</b>.
 </p>
 
+<p align="center"><i>🔬 Found a spark for your next discovery? Give this repo a ⭐ and help science travel further!</i></p>
+
 <p align="center">
   <a href="https://github.com/yanliang3612/Awesome-MLLMs-for-Science/issues/new"><img src="https://img.shields.io/badge/Add_a_recent_scientific_MLLM-Submit-6f42c1" alt="Submit a recent scientific MLLM"></a>
   <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg"><img src="src/slack-join-badge.svg" alt="Join SciGenAI on Slack"></a>
@@ -432,11 +434,3 @@ Contributions are welcome! If you would like to add a paper, dataset, benchmark,
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-
-If this collection helps your research, consider giving it a ⭐ to help others discover it.
-
-</div>
