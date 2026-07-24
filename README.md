@@ -72,28 +72,6 @@ This repository accompanies our survey and provides a structured overview of MLL
 - [📝 Citation](#citation)
 - [🤝 Contributing](#contributing)
 
-## Citation
-
-If you find this repository or our survey useful, please cite our paper.
-
-<details>
-<summary><b>Show BibTeX</b></summary>
-
-```bibtex
-@article{202602.1847,
-	doi = {10.20944/preprints202602.1847.v1},
-	url = {https://doi.org/10.20944/preprints202602.1847.v1},
-	year = 2026,
-	month = {February},
-	publisher = {Preprints},
-	author = {Liang Yan and Xu Jiang and Jian Ma and Yuhang Liu and Tian Bian and Qichao Wang and Abhishek Basu and Yu Rong and Tingyang Xu and Pengcheng Wu and Le Song and Imran Razzak and Junchi Yan and Zengfeng Huang and Yutong Xie},
-	title = {A Comprehensive Survey of Multimodal LLMs for Scientific Discovery},
-	journal = {Preprints}
-}
-```
-
-</details>
-
 ## News & Updates
 
 - **2026-07-15:** Launched the [SciGenAI Slack community](#community), including a dedicated `mllm4sci` channel for project support and collaboration.
@@ -434,3 +412,20 @@ Contributions are welcome! If you would like to add a paper, dataset, benchmark,
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Citation
+
+If you find this repository or our survey useful, please cite our paper.
+
+```bibtex
+@article{202602.1847,
+	doi = {10.20944/preprints202602.1847.v1},
+	url = {https://doi.org/10.20944/preprints202602.1847.v1},
+	year = 2026,
+	month = {February},
+	publisher = {Preprints},
+	author = {Liang Yan and Xu Jiang and Jian Ma and Yuhang Liu and Tian Bian and Qichao Wang and Abhishek Basu and Yu Rong and Tingyang Xu and Pengcheng Wu and Le Song and Imran Razzak and Junchi Yan and Zengfeng Huang and Yutong Xie},
+	title = {A Comprehensive Survey of Multimodal LLMs for Scientific Discovery},
+	journal = {Preprints}
+}
+```
