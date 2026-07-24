@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="src/logo.png" alt="Awesome MLLMs for Scientific Discovery" width="100%">
-</p>
-
 <h1 align="center">A Comprehensive Survey of Multimodal LLMs for Scientific Discovery</h1>
 
 <p align="center">
