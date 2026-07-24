@@ -45,11 +45,11 @@
 
 <br>
 
+## Overview
+
 <p align="center">
   <img src="src/demo-fixed.gif" alt="S3-Bench overview" width="100%">
 </p>
-
-## Overview
 
 Recent advances in artificial intelligence—especially large language models—have accelerated the integration of multimodal data in scientific research. Scientific domains span text and images as well as biological sequences, graphs, and structures. Multimodal large language models (MLLMs) bridge these modalities to enable richer analysis and more capable scientific decision-making.
 
