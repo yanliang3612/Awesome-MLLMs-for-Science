@@ -46,7 +46,7 @@
 <br>
 
 <p align="center">
-  <img src="src/demo.gif" alt="S3-Bench overview" width="100%">
+  <img src="src/demo-fixed.gif" alt="S3-Bench overview" width="100%">
 </p>
 
 ## Overview
