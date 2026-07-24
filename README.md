@@ -43,6 +43,8 @@
   <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg"><strong>Scan the QR code or join via the Slack invitation link</strong></a>
 </p>
 
+Last updated: 2026-07-24
+
 <br>
 
 ---
