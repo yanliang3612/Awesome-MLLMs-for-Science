@@ -93,7 +93,6 @@ Last updated: 2026-07-24
 - [SciGenAI Community](#community)
   - [Join the SciGenAI Slack](#join-the-scigenai-slack)
 - [Contributing](#contributing)
-- [License](#license)
 - [Citation](#citation)
 
 ---
@@ -460,12 +459,6 @@ The workspace includes a dedicated **`mllm4sci` channel** for this repository. Y
 ## Contributing
 
 Contributions are welcome! If you would like to add a paper, dataset, benchmark, or other resource, please open an issue or submit a pull request. To keep the collection consistent, include the title, venue, publication date, and an official project or code link whenever available.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
