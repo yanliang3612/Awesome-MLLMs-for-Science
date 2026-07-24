@@ -5,6 +5,16 @@
 <h1 align="center">A Comprehensive Survey of Multimodal LLMs for Scientific Discovery</h1>
 
 <p align="center">
+  <a href="https://github.com/yanliang3612/Awesome-MLLMs-for-Science/issues/new"><img src="https://img.shields.io/badge/Add_a_recent_scientific_MLLM-Submit-6f42c1" alt="Submit a recent scientific MLLM"></a>
+  <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg"><img src="src/slack-join-badge.svg" alt="Join SciGenAI on Slack"></a>
+  <a href="https://bagayalus.github.io/S3-Bench/"><img src="https://img.shields.io/badge/Project-Page-1677ff" alt="Project Page"></a>
+  <a href="https://www.preprints.org/manuscript/202602.1847"><img src="https://img.shields.io/badge/Paper-Preprint-f59e0b" alt="Preprint"></a>
+  <a href="https://openreview.net/forum?id=HSz1Kr5BeC"><img src="https://img.shields.io/badge/OpenReview-Discuss-8b5cf6" alt="OpenReview Discussion"></a>
+  <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-ec4899" alt="BibTeX Citation"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e" alt="MIT License"></a>
+</p>
+
+<p align="center">
   Liang Yan<sup>1,2</sup>, Xu Jiang<sup>2</sup>, Jian Ma<sup>2</sup>, Yuhang Liu, Tian Bian, Qichao Wang,<br>
   Abhishek Basu, Yu Rong, Tingyang Xu, Pengcheng Wu, Le Song, Imran Razzak,<br>
   Junchi Yan<sup>3</sup>, Zengfeng Huang<sup>3</sup>, Yutong Xie<sup>3</sup>
@@ -18,16 +28,6 @@
 </p>
 
 <p align="center"><i>🔬 Found a spark for your next discovery? Give this repo a ⭐ and help science travel further!</i></p>
-
-<p align="center">
-  <a href="https://github.com/yanliang3612/Awesome-MLLMs-for-Science/issues/new"><img src="https://img.shields.io/badge/Add_a_recent_scientific_MLLM-Submit-6f42c1" alt="Submit a recent scientific MLLM"></a>
-  <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg"><img src="src/slack-join-badge.svg" alt="Join SciGenAI on Slack"></a>
-  <a href="https://bagayalus.github.io/S3-Bench/"><img src="https://img.shields.io/badge/Project-Page-1677ff" alt="Project Page"></a>
-  <a href="https://www.preprints.org/manuscript/202602.1847"><img src="https://img.shields.io/badge/Paper-Preprint-f59e0b" alt="Preprint"></a>
-  <a href="https://openreview.net/forum?id=HSz1Kr5BeC"><img src="https://img.shields.io/badge/OpenReview-Discuss-8b5cf6" alt="OpenReview Discussion"></a>
-  <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-ec4899" alt="BibTeX Citation"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e" alt="MIT License"></a>
-</p>
 
 <p align="center">
   <a href="#community">
