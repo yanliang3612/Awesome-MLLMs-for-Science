@@ -55,6 +55,7 @@ Last updated: 2026-07-24
 
 ## News & Updates
 
+- **2026-07-24:** Cleaned up the README layout and navigation.
 - **2026-07-15:** Launched the [SciGenAI Slack community](#community), including a dedicated `mllm4sci` channel for project support and collaboration.
 - **2026-07-15:** Added recent scientific MLLMs and benchmarks from arXiv, bioRxiv, OpenReview, ACL, NeurIPS, and Nature-family journals; publication records were preferred over earlier preprints.
 - **2026-02-27:**  Our preprint is available online at [Preprints.org](https://preprints.org/) ! Check [here](https://www.preprints.org/manuscript/202602.1847).
@@ -62,7 +63,7 @@ Last updated: 2026-07-24
 
 ---
 
-## Quick Navigation
+## Table of Contents
 
 - [News & Updates](#news--updates)
 - [Overview](#overview)
