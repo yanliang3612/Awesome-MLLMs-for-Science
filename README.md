@@ -35,13 +35,17 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg">
-    <img src="src/scigenai-slack-qr.png" alt="QR code to join the SciGenAI Slack community" width="180">
-  </a>
-  <br>
-  <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg"><strong>Scan the QR code or join via the Slack invitation link</strong></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg">
+        <img src="src/scigenai-slack-qr.png" alt="QR code to join the SciGenAI Slack community" width="220">
+      </a>
+      <br>
+      <strong>SciGenAI Slack</strong>
+    </td>
+  </tr>
+</table>
 
 Last updated: 2026-07-24
 
@@ -437,13 +441,19 @@ The workspace includes a dedicated **`mllm4sci` channel** for this repository. Y
 
 **Option 1 — Invitation link:** [Join the SciGenAI Slack community](https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg)
 
-**Option 2 — QR code:** Scan the code below with your phone. The QR image is also clickable.
+**Option 2 — SciGenAI Slack QR code:** Scan the card below with your phone. The QR image is also clickable.
 
-<p align="center">
-  <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg">
-    <img src="src/scigenai-slack-qr.png" alt="QR code to join the SciGenAI Slack community" width="220">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://join.slack.com/t/matdiscoverai/shared_invite/zt-32kktcuk0-XaaJT2P9qZTfNdaCzJUGAg">
+        <img src="src/scigenai-slack-qr.png" alt="QR code to join the SciGenAI Slack community" width="220">
+      </a>
+      <br>
+      <strong>SciGenAI Slack</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
