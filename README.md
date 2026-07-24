@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="src/mllms-for-science-logo.png" alt="MLLMs for Science" width="180">
+</p>
+
+<p align="center">
   Liang Yan<sup>1,2</sup>, Xu Jiang<sup>2</sup>, Jian Ma<sup>2</sup>, Yuhang Liu, Tian Bian, Qichao Wang,<br>
   Abhishek Basu, Yu Rong, Tingyang Xu, Pengcheng Wu, Le Song, Imran Razzak,<br>
   Junchi Yan<sup>3</sup>, Zengfeng Huang<sup>3</sup>, Yutong Xie<sup>3</sup>
