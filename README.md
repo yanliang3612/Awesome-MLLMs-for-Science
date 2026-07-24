@@ -45,6 +45,8 @@
 
 <br>
 
+---
+
 ## Overview
 
 <p align="center">
@@ -59,6 +61,8 @@ This repository accompanies our survey and provides a structured overview of MLL
 |:---:|:---:|:---:|:---:|
 | Representation, generation, optimization, reactions, and agents | Sequence, structure, language integration, and interactions | Generation, property prediction, discovery, and multimodal agents | Gene analysis, regulation, expression, and reasoning |
 
+---
+
 ## Quick Navigation
 
 - [📢 News & Updates](#news--updates)
@@ -72,6 +76,8 @@ This repository accompanies our survey and provides a structured overview of MLL
 - [📝 Citation](#citation)
 - [🤝 Contributing](#contributing)
 
+---
+
 ## News & Updates
 
 - **2026-07-15:** Launched the [SciGenAI Slack community](#community), including a dedicated `mllm4sci` channel for project support and collaboration.
@@ -79,6 +85,8 @@ This repository accompanies our survey and provides a structured overview of MLL
 - **2026-02-27:**  Our preprint is available online at [Preprints.org](https://preprints.org/) ! Check [here](https://www.preprints.org/manuscript/202602.1847).
 - **2025-11-13:** The first version of S3Bench is accepted by [NeurIPS 2025 VLM4RWD Workshop](https://mozhgan91.github.io/vlm4rwd-neurips25-ws/) ! Check our [project page](https://bagayalus.github.io/S3-Bench/).
 
+
+---
 
 ## 1. Related Survey Work
 
@@ -128,6 +136,8 @@ This repository accompanies our survey and provides a structured overview of MLL
 | [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151) | arXiv | Feb 7, 2025 | - |
 | [Foundation Models for Materials Discovery: Current State and Future Directions](https://www.nature.com/articles/s41524-025-01538-0) | npj Computational Materials | Mar 6, 2025 | - |
 | [Towards Multimodal Foundation Models in Molecular Cell Biology](https://www.nature.com/articles/s41586-025-08710-y) | Nature | Apr 16, 2025 | - |
+
+---
 
 ## 2. MLLMs for Drug & Molecule
 
@@ -211,6 +221,8 @@ This repository accompanies our survey and provides a structured overview of MLL
 
 
 
+
+---
 
 ## 3. MLLMs for Protein
 
@@ -331,6 +343,8 @@ This repository accompanies our survey and provides a structured overview of MLL
 
 
 
+---
+
 ## 5. MLLMs for Genomics
 
 ### 5.1 LLMs-Related Work
@@ -367,6 +381,8 @@ This repository accompanies our survey and provides a structured overview of MLL
 | [BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model](https://arxiv.org/abs/2505.23579) | Genomic Reasoning | NeurIPS 2025 | May 29, 2025 | [code](https://github.com/bowang-lab/BioReason) |
 | [Multimodal Learning Enables Chat-based Exploration of Single-cell Data (CellWhisperer)](https://www.nature.com/articles/s41587-025-02857-9) | Single-cell / Cell–Text | Nature Biotechnology | Nov 11, 2025 | [code](https://github.com/epigen/CellWhisperer) |
 
+---
+
 ## 6. General Scientific MLLMs & Benchmarks
 
 This section collects domain-general scientific multimodal models, datasets, and evaluation environments that span multiple scientific disciplines.
@@ -380,6 +396,8 @@ This section collects domain-general scientific multimodal models, datasets, and
 | [Innovator-VL: A Multimodal Large Language Model for Scientific Discovery](https://arxiv.org/abs/2601.19325) | arXiv | Jan 27, 2026 | [code](https://github.com/InnovatorLM/Innovator-VL) |
 | [Towards Multimodal Data-Driven Scientific Discovery Powered by LLM Agents](https://openreview.net/forum?id=kZHSvETWdi) | ICLR 2026 | 2026 | - |
 | [S1-VL: Scientific Multimodal Reasoning Model with Thinking-with-Images](https://arxiv.org/abs/2604.21409) | arXiv | Apr 23, 2026 | - |
+
+---
 
 ## Community
 
@@ -405,13 +423,19 @@ The workspace includes a dedicated **`mllm4sci` channel** for this repository. Y
   </a>
 </p>
 
+---
+
 ## Contributing
 
 Contributions are welcome! If you would like to add a paper, dataset, benchmark, or other resource, please open an issue or submit a pull request. To keep the collection consistent, include the title, venue, publication date, and an official project or code link whenever available.
 
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
 
 ## Citation
 
