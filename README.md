@@ -56,6 +56,21 @@
 
 ---
 
+## Quick Navigation
+
+- [📢 News & Updates](#news--updates)
+- [📚 Related Survey Work](#1-related-survey-work)
+- [🧪 MLLMs for Drug & Molecule](#2-mllms-for-drug--molecule)
+- [🧬 MLLMs for Protein](#3-mllms-for-protein)
+- [⚛️ MLLMs for Materials](#4-mllms-for-materials)
+- [🧬 MLLMs for Genomics](#5-mllms-for-genomics)
+- [🔬 General Scientific MLLMs & Benchmarks](#6-general-scientific-mllms--benchmarks)
+- [💬 SciGenAI Community](#community)
+- [📝 Citation](#citation)
+- [🤝 Contributing](#contributing)
+
+---
+
 ## Overview
 
 <p align="center">
@@ -69,21 +84,6 @@ This repository accompanies our survey and provides a structured overview of MLL
 | 🧪 Drug & Molecule | 🧬 Protein | ⚛️ Materials | 🧬 Genomics |
 |:---:|:---:|:---:|:---:|
 | Representation, generation, optimization, reactions, and agents | Sequence, structure, language integration, and interactions | Generation, property prediction, discovery, and multimodal agents | Gene analysis, regulation, expression, and reasoning |
-
----
-
-## Quick Navigation
-
-- [📢 News & Updates](#news--updates)
-- [📚 Related Survey Work](#1-related-survey-work)
-- [🧪 MLLMs for Drug & Molecule](#2-mllms-for-drug--molecule)
-- [🧬 MLLMs for Protein](#3-mllms-for-protein)
-- [⚛️ MLLMs for Materials](#4-mllms-for-materials)
-- [🧬 MLLMs for Genomics](#5-mllms-for-genomics)
-- [🔬 General Scientific MLLMs & Benchmarks](#6-general-scientific-mllms--benchmarks)
-- [💬 SciGenAI Community](#community)
-- [📝 Citation](#citation)
-- [🤝 Contributing](#contributing)
 
 ---
 
