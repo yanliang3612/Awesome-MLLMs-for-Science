@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="src/mllms-for-science-logo.png" alt="MLLMs for Science" width="180">
+  <img src="src/mllms-for-science-logo.gif" alt="Molecule, protein, genomics, and materials modalities for Multimodal LLMs for Scientific Discovery" width="180">
 </p>
 
 <p align="center">
