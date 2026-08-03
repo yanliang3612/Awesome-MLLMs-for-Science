@@ -47,7 +47,7 @@
   </tr>
 </table>
 
-Last updated: 2026-07-24
+Last updated: 2026-08-03
 
 <br>
 
@@ -55,6 +55,7 @@ Last updated: 2026-07-24
 
 ## News & Updates
 
+- **2026-08-03:** Added four recent MLLM-for-science papers from the July 28–August 3 weekly scan.
 - **2026-07-24:** Cleaned up the README layout and navigation.
 - **2026-07-15:** Launched the [SciGenAI Slack community](#community), including a dedicated `mllm4sci` channel for project support and collaboration.
 - **2026-07-15:** Added recent scientific MLLMs and benchmarks from arXiv, bioRxiv, OpenReview, ACL, NeurIPS, and Nature-family journals; publication records were preferred over earlier preprints.
@@ -243,6 +244,7 @@ This repository accompanies our survey and provides a structured overview of MLL
 | [ChemMLLM: Chemical Multimodal Large Language Model](https://arxiv.org/abs/2505.16326) | arXiv | May 22, 2025 | [code](https://github.com/bbsbz/ChemMLLM) |
 | [Chem3DLLM: 3D Multimodal Large Language Models for Chemistry](https://arxiv.org/abs/2508.10696) | arXiv | Aug 14, 2025 | - |
 | [MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Model](https://aclanthology.org/2025.findings-emnlp.1174/) | Findings of EMNLP 2025 | Nov 2025 | - |
+| [MarkushGlyph and OCSRGlyph: Improved Chemical Structure Recognition](https://arxiv.org/abs/2607.28532) | arXiv | Jul 30, 2026 | [code](https://github.com/EdisonScientific/glyph) |
 
 
 
@@ -363,6 +365,7 @@ This repository accompanies our survey and provides a structured overview of MLL
 | [Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework](https://arxiv.org/abs/2506.00302) | arXiv | May 30, 2025 | [code](https://github.com/KurbanIntelligenceLab/MultiCrystalSpectrumSet) |
 | [Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on Materials Characterization](https://arxiv.org/abs/2509.09307) | arXiv | Sep 11, 2025 | [code](https://github.com/FreedomIntelligence/MatCha) |
 | [L²M³OF: A Large Language Multimodal Model for Metal-Organic Frameworks](https://arxiv.org/abs/2510.20976) | arXiv | Oct 23, 2025 | - |
+| [ICDAR 2026 Competition on Information Extraction from Atomic Layer Deposition/Etching (ALD/E) Scientific Figures](https://arxiv.org/abs/2607.26848) | ICDAR 2026 | Jul 29, 2026 | [code](https://github.com/sciknoworg/sci-imageminer) |
 
 
 
@@ -422,6 +425,8 @@ This section collects domain-general scientific multimodal models, datasets, and
 | [Innovator-VL: A Multimodal Large Language Model for Scientific Discovery](https://arxiv.org/abs/2601.19325) | arXiv | Jan 27, 2026 | [code](https://github.com/InnovatorLM/Innovator-VL) |
 | [Towards Multimodal Data-Driven Scientific Discovery Powered by LLM Agents](https://openreview.net/forum?id=kZHSvETWdi) | ICLR 2026 | 2026 | - |
 | [S1-VL: Scientific Multimodal Reasoning Model with Thinking-with-Images](https://arxiv.org/abs/2604.21409) | arXiv | Apr 23, 2026 | - |
+| [SciFigPlag-Bench: A Benchmark for Provenance-Aware Scientific Figure Plagiarism Detection](https://arxiv.org/abs/2607.29124) | arXiv | Jul 31, 2026 | [dataset](https://huggingface.co/datasets/FreeLand123/SciFigPlag-Bench) |
+| [SeekBrain: An Autonomous Multi-Agent System for Accelerating Neuroscience Discovery](https://arxiv.org/abs/2607.29347) | arXiv | Jul 31, 2026 | [code](https://github.com/AI4NeuroLab/SeekBrain) |
 
 ---
 
