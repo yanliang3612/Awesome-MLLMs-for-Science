@@ -47,7 +47,7 @@
   </tr>
 </table>
 
-Last updated: 2026-08-03
+Last updated: 2026-08-24
 
 <br>
 
@@ -55,6 +55,7 @@ Last updated: 2026-08-03
 
 ## News & Updates
 
+- **2026-08-24:** Added five recent MLLM/VLM and scientific-agent papers from the August 18–24 weekly scan.
 - **2026-08-03:** Added four recent MLLM-for-science papers from the July 28–August 3 weekly scan.
 - **2026-07-24:** Cleaned up the README layout and navigation.
 - **2026-07-15:** Launched the [SciGenAI Slack community](#community), including a dedicated `mllm4sci` channel for project support and collaboration.
@@ -345,6 +346,8 @@ This repository accompanies our survey and provides a structured overview of MLL
 | [Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning](https://arxiv.org/abs/2403.11996) | arXiv | Mar 18, 2024 | [code](https://github.com/lamm-mit/GraphReasoning) |
 | [MatExpert: Decomposing Materials Discovery by Mimicking Human Experts](https://arxiv.org/abs/2410.21317) | arXiv | Oct 26, 2024 | [code](https://github.com/BangLab-UdeM-Mila/MatExpert) |
 | [Evaluating the performance and robustness of LLMs in materials science Q&A and property predictions](https://arxiv.org/abs/2409.14572) | arXiv | Sep 22, 2024 | - |
+| [An LLM Agent for End-to-End Computational Materials Discovery](https://arxiv.org/abs/2608.20434) | arXiv | Aug 20, 2026 | - |
+| [VortexChat: An Agentic Framework for Autonomous Multi-objective Integrated Photonic Design](https://arxiv.org/abs/2608.20688) | arXiv | Aug 21, 2026 | - |
 
 
 
@@ -427,6 +430,9 @@ This section collects domain-general scientific multimodal models, datasets, and
 | [S1-VL: Scientific Multimodal Reasoning Model with Thinking-with-Images](https://arxiv.org/abs/2604.21409) | arXiv | Apr 23, 2026 | - |
 | [SciFigPlag-Bench: A Benchmark for Provenance-Aware Scientific Figure Plagiarism Detection](https://arxiv.org/abs/2607.29124) | arXiv | Jul 31, 2026 | [dataset](https://huggingface.co/datasets/FreeLand123/SciFigPlag-Bench) |
 | [SeekBrain: An Autonomous Multi-Agent System for Accelerating Neuroscience Discovery](https://arxiv.org/abs/2607.29347) | arXiv | Jul 31, 2026 | [code](https://github.com/AI4NeuroLab/SeekBrain) |
+| [XRF-to-Optical Field-of-View Localization with Vision Language Models](https://arxiv.org/abs/2608.18309) | arXiv | Aug 18, 2026 | - |
+| [Teach a Molmo2Fish: Towards Interactive Fish Tracking with Natural Language Guidance](https://arxiv.org/abs/2608.18602) | ECCV 2026 CV4Ecology Workshop | Aug 19, 2026 | [code](https://github.com/tidalove/molmo2fish) |
+| [VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](https://arxiv.org/abs/2608.21357) | arXiv | Aug 21, 2026 | [dataset](https://huggingface.co/datasets/elainelau-hs/VIALS) |
 
 ---
 
